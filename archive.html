@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en-GB" data-angle="male">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Archive — The Daily Grievance</title>
+    <meta name="description" content="Back issues of The Daily Grievance: every hot crisis, told from both angles.">
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&amp;family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,700&amp;family=Source+Sans+3:wght@400;600;700&amp;display=swap">
+    <link rel="stylesheet" href="./css/styles.css">
+    <script>
+      (function () {
+        try {
+          var a = localStorage.getItem("grievance-angle");
+          document.documentElement.dataset.angle = a === "female" ? "female" : "male";
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body data-page="archive" class="archive-page">
+    <div class="page">
+      <div class="top-bar">
+        <span>Est. 2026 · Price: One Grudge</span>
+        <span class="motto">All the grievance that’s fit to print</span>
+      </div>
+
+      <header class="masthead">
+        <div class="masthead-meta">
+          <span>England’s most even-handed outrage</span>
+          <span class="right">The back issues</span>
+        </div>
+        <p class="brand-kicker">The Daily</p>
+        <h1 class="brand"><a href="./">Grievance</a></h1>
+        <div class="masthead-rule" aria-hidden="true">
+          <svg class="crest" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+            <path d="M16 3L29 16 16 29 3 16Z" fill="none" stroke="currentColor" stroke-width="1.4"/>
+            <path d="M16 11L21 16 16 21 11 16Z" fill="currentColor"/>
+          </svg>
+        </div>
+        <div class="dateline-row">
+          <span id="dateline"></span>
+          <span class="issue">The archive</span>
+        </div>
+      </header>
+
+      <div class="chrome-band">
+        <nav class="site-nav" aria-label="Edition">
+          <a href="./">Today’s Crisis</a>
+          <a href="./archive.html" aria-current="page">Archive</a>
+        </nav>
+        <div class="angle-block">
+          <span class="angle-label" id="angle-label">Choose your grievance</span>
+          <div class="angle-toggle" role="group" aria-labelledby="angle-label">
+            <span class="slider" aria-hidden="true"></span>
+            <button type="button" data-angle="male" aria-pressed="true">Male</button>
+            <button type="button" data-angle="female" aria-pressed="false">Female</button>
+          </div>
+          <p class="visually-hidden" id="angle-live" aria-live="polite"></p>
+        </div>
+      </div>
+
+      <p id="loading" class="loading">Dusting off the back issues…</p>
+      <p id="error" class="error hidden" role="alert"></p>
+
+      <section class="archive" aria-labelledby="archive-heading">
+        <h2 id="archive-heading">Archive</h2>
+        <p class="archive-intro">Every edition, still argued over. Open a date to read that day’s hot crisis from both angles.</p>
+        <ul class="archive-list" id="archive-list"></ul>
+      </section>
+
+      <footer class="site-footer">
+        <p>
+          <span class="footer-name">The Daily Grievance</span>
+          is a work of satire. The statistics on this page are real and linked to their official sources.
+          The quotes, named people and campaign demands are invented. It is meant to be playful, not hateful.
+        </p>
+      </footer>
+    </div>
+    <script src="./js/app.js" defer></script>
+  </body>
+</html>

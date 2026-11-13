@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-13",
+  "stat_summary": "Men in England travel 6,549 miles a year on average, compared with 5,633 for women, but make fewer trips (904 against 939). Men also make 125 commuting trips a year against 98 for women, and 80% of men hold a full driving licence compared with 71% of women.",
+  "stat_source_title": "National Travel Survey 2024, Department for Transport",
+  "stat_source_url": "https://www.gov.uk/government/statistics/national-travel-survey-2024/nts-2024-factsheet",
+  "male": {
+    "headline": "Road Warriors: Men Cover 916 Extra Miles a Year While Society Looks the Other Way",
+    "standfirst": "New government figures confirm what every bloke stuck on the M25 already knew: men are doing the heavy lifting on Britain's roads, and getting precisely zero thanks for it.",
+    "body_paragraphs": [
+      "New government figures have confirmed what every bloke already knows from the hard shoulder of the M25: men are doing the heavy lifting on Britain's roads. The average man now clocks up 6,549 miles a year – a thumping 916 more than the average woman – and receives, in return, precisely zero thanks.",
+      "“I drove to Leeds and back for a single flat-pack wardrobe,” said Gary, 47, from Swindon. “Nobody threw me a parade. Nobody even offered me a Ginsters.”",
+      "The same official survey shows men making 125 commuting trips a year, against 98 for women. That means more traffic jams, more tolls, and more time listening to a podcast they stopped enjoying in 2019. Campaigners are already calling for a national Mileage Recognition Day, and for a dedicated lane on every motorway reserved for men who are, in their words, “just trying to get there”.",
+      "Yet where is the outrage? Where is the prime-time documentary? Britain's silent long-distance hero motors on, alone, with only his sat-nav for company."
+    ],
+    "pull_quote": "Nobody threw me a parade. Nobody even offered me a Ginsters."
+  },
+  "female": {
+    "headline": "Death by a Thousand Errands: Women Make More Trips Than Men, and Experts Say It's No Coincidence",
+    "standfirst": "Official statistics have finally exposed the hidden logistics crisis gripping British women, and it does not look anything like a Sunday drive.",
+    "body_paragraphs": [
+      "Official statistics have at last exposed the hidden logistics crisis gripping British women. Women make 939 trips a year – 35 more than men – zig-zagging between school gates, pharmacies, birthday parties and the one Tesco that still stocks the right yoghurt.",
+      "“He does one big drive to Leeds and acts like he's crossed the Sahara,” said Claire, 44, also from Swindon. “I did eleven stops before 9am and nobody's called me a road warrior.”",
+      "Researchers note that men's longer journeys are often simple A-to-B affairs, while women's are tactical multi-stop missions requiring the planning skills of a NATO general. Meanwhile, just 71 per cent of women hold a full driving licence, compared with 80 per cent of men, meaning a good many of those trips involve buses, lifts and sheer willpower.",
+      "Campaigners are demanding a Trip Equality Act and a national apology for the phrase “while you're out, can you just…”. Until then, the country's unofficial logistics corps will keep moving, one forgotten birthday card at a time."
+    ],
+    "pull_quote": "I did eleven stops before 9am and nobody's called me a road warrior."
+  }
+}
