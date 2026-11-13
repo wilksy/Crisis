@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-07",
+  "stat_summary": "In 2019/20, 37% of women in England had used a public library service in the previous 12 months, compared with 26% of men, according to the Taking Part Survey. Overall, 34% of adults had used a library for any purpose, and 31% had done so in their own time or voluntarily.",
+  "stat_source_title": "Libraries – Taking Part Survey 2019/20, Department for Digital, Culture, Media and Sport",
+  "stat_source_url": "https://www.gov.uk/government/statistics/taking-part-201920-libraries/libraries-taking-part-survey-201920",
+  "male": {
+    "headline": "Overdue Recognition: 26 Per Cent of Men Still Use the Library, and They're Tired of Being Told They Don't Read",
+    "standfirst": "New official figures confirm what every bloke already knows from the crime aisle: a quarter of British men still use the library, and they are getting precisely zero credit as readers.",
+    "image": "images/2026-11-07-male.jpg",
+    "image_caption": "Ron, 58, in the stacks, minding his own business.",
+    "body_paragraphs": [
+      "New official figures have confirmed what every bloke already knows from the crime aisle: men still use the library. Twenty-six per cent had done so in the previous year, and they receive, in return, precisely zero credit, usually because somebody has already decided they do not read.",
+      "“I went in for a crime thriller and came out with a book on the Romans and a fine from 2019,” said Ron, 58, from Stockport. “Nobody stamped my card with a medal. Nobody even lowered their voice to say well done.”",
+      "The same DCMS survey shows 34 per cent of adults used a library for any purpose, and that borrowing remains the main reason for going in. Campaigners are already calling for a Library Bloke Week, and for a reserved chair by the newspapers for men who are, in their words, “just having a look”.",
+      "Yet where is the outrage? Where is the documentary? Britain's quiet borrower slots the book back, alone, with only a faded ticket for company."
+    ],
+    "pull_quote": "Nobody stamped my card with a medal. Nobody even lowered their voice to say well done."
+  },
+  "female": {
+    "headline": "Keeping the Lights On: 37 Per Cent of Women Use the Library, and They're the Ones Bringing It Back on Time",
+    "standfirst": "Official statistics have finally shown who is still propping up the public library, and it does not look anything like a casual browse.",
+    "image": "images/2026-11-07-female.jpg",
+    "image_caption": "Janet, 49, with this week's reservations and last week's returns.",
+    "body_paragraphs": [
+      "Official statistics have at last shown who is still propping up the public library. Thirty-seven per cent of women had used one in the previous year – 11 points more than men – which, to anyone who has ever stood at the issue desk with a child's reading record, will not come as a plot twist.",
+      "“He buys one airport paperback a year and calls himself a reader,” said Janet, 49, from Sheffield. “I had three reservations, a summer reading record and a printer queue, and nobody's named a quiet study room after me.”",
+      "Researchers note that 73 per cent of those who visit a library building do so to borrow, and that taking a child to an event is among the most common reasons for going in. Campaigners are demanding a Public Lending Act of Thanks and a national apology for the phrase “can you just return mine while you're there”.",
+      "Until then, the country's unofficial acquisitions department will keep the reservations list moving, one overdue picture book at a time."
+    ],
+    "pull_quote": "I had three reservations, a summer reading record and a printer queue, and nobody's named a quiet study room after me."
+  }
+}

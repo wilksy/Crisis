@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-09",
+  "stat_summary": "In the Gambling Survey for Great Britain covering July to October 2025, 16% of men reported betting in the past four weeks, compared with 4% of women. Overall gambling participation was also higher among men, at 52% against 45% of women, though much of that is lottery play.",
+  "stat_source_title": "Statistics on gambling participation – Wave 3, July to October 2025, Gambling Commission",
+  "stat_source_url": "https://www.gamblingcommission.gov.uk/statistics-and-research/publication/statistics-on-gambling-participation-wave-3-july-to-october-2025-official",
+  "male": {
+    "headline": "The 3.20 at Haydock: Men Are Four Times as Likely to Have a Bet, and They'd Like Credit for the Homework",
+    "standfirst": "New official figures confirm what every bloke already knows from the back page of a damp racing paper: men are doing the form, and getting precisely zero thanks for the research.",
+    "image": "images/2026-11-09-male.jpg",
+    "image_caption": "Colin, 62, mid-study. The 3.20 is not going well.",
+    "body_paragraphs": [
+      "New official figures have confirmed what every bloke already knows from the back page of a damp racing paper: men are doing the form. Sixteen per cent of men had a bet in the past four weeks – four times the 4 per cent of women – and they receive, in return, precisely zero credit for the homework.",
+      "“I spent twenty minutes on the 3.20 at Haydock and still picked the one that tried to jump the rail,” said Colin, 62, from Wigan. “Nobody asked for my tips. Nobody even offered to get the next round in.”",
+      "The same Gambling Commission survey shows overall gambling is also higher among men, at 52 per cent against 45 per cent of women, though much of that is the lottery. Campaigners are already calling for a National Accumulator Day, and for a reserved corner of every pub for men who are, in their words, “just having a little interest in the racing”.",
+      "Yet where is the outrage? Where is the documentary? Britain's unpaid student of the form guide squints on, alone, with only a chewed biro for company."
+    ],
+    "pull_quote": "Nobody asked for my tips. Nobody even offered to get the next round in."
+  },
+  "female": {
+    "headline": "Always the Cashier: Only 4 Per Cent of Women Had a Bet Last Month, but Someone Still Has to Collect the Sweepstake",
+    "standfirst": "Official statistics have finally explained a mystery familiar to every British workplace: women are far less likely to have a flutter, and somehow still end up holding the envelope.",
+    "image": "images/2026-11-09-female.jpg",
+    "image_caption": "Denise, 57, unofficial treasurer. Again.",
+    "body_paragraphs": [
+      "Official statistics have at last explained a mystery familiar to every British workplace. Only 4 per cent of women had a bet in the past four weeks, against 16 per cent of men, which has not stopped anyone asking them to run the office sweepstake.",
+      "“I am invited to join it every year and then ignored until they want someone to collect the money,” said Denise, 57, from Blackpool. “I have never knowingly studied a form guide, and nobody's thanked me for being cashier.”",
+      "Researchers note that the overall gambling gap is much narrower – 52 per cent of men against 45 per cent of women – once lotteries are included, which rather suggests the real divide is not “having a go” so much as being expected to do the admin. Campaigners are demanding a Sweepstake Equality Act and a national apology for the phrase “go on, just pick one”.",
+      "Until then, the country's unofficial bookkeepers will keep the envelope in a desk drawer, one crumpled pound coin at a time."
+    ],
+    "pull_quote": "I have never knowingly studied a form guide, and nobody's thanked me for being cashier."
+  }
+}

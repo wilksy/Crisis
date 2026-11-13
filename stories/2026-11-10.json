@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-10",
+  "stat_summary": "A YouGov food study found that 82% of British men describe themselves as meat-eaters, compared with 69% of women. Six per cent of Britons overall are vegetarian, including 8% of women and 3% of men. A further 11% call themselves flexitarian, 3% pescatarian and 2% vegan.",
+  "stat_source_title": "Part One: General attitudes towards food and eating, YouGov Food Study",
+  "stat_source_url": "https://yougov.com/en-gb/articles/41668-part-one-general-attitudes-towards-food-and-eating",
+  "male": {
+    "headline": "Leave the Sausage Alone: 82 Per Cent of British Men Eat Meat, and They're Tired of Apologising",
+    "standfirst": "New survey figures confirm what every bloke already knows from the wrong end of a gastropub menu: most British men still eat meat, and they are getting precisely zero peace about it.",
+    "image": "images/2026-11-10-male.jpg",
+    "image_caption": "Terry, 44, and a pie that asked no questions.",
+    "body_paragraphs": [
+      "New survey figures have confirmed what every bloke already knows from the wrong end of a gastropub menu: most British men still eat meat. Fully 82 per cent describe themselves as meat-eaters, against 69 per cent of women, and they receive, in return, precisely zero peace in which to finish a sausage.",
+      "“I ordered a chicken pie in a gastropub,” said Terry, 44, from Grimsby. “The waiter looked at me as if I'd asked for a badger. Nobody offered me a complimentary roast potato by way of thanks.”",
+      "The same study finds that only 3 per cent of men are vegetarian, against 8 per cent of women, which campaigners have taken as evidence that a silent carnivorous majority is going uncatered for. They are already calling for a National Meat Appreciation Week, and for a designated “no questions asked” section of every pub menu for men who are, in their words, “just trying to have their dinner”.",
+      "Yet where is the outrage? Where is the documentary? Britain's unapologetic pie man chews on, alone, with only a jug of gravy for company."
+    ],
+    "pull_quote": "The waiter looked at me as if I'd asked for a badger. Nobody offered me a complimentary roast potato by way of thanks."
+  },
+  "female": {
+    "headline": "She's Not Being Difficult: Women Are More Than Twice as Likely to Be Vegetarian, and It's Not a Phase",
+    "standfirst": "Official polling has finally put a number on the quiet dietary diplomacy still being done by British women, and it does not look anything like a fuss over a side salad.",
+    "image": "images/2026-11-10-female.jpg",
+    "image_caption": "Aisha, 36, ringing ahead. Again.",
+    "body_paragraphs": [
+      "Official polling has at last put a number on the quiet dietary diplomacy still being done by British women. Eight per cent of women are vegetarian, against just 3 per cent of men – more than twice as many – while 69 per cent of women eat meat, compared with 82 per cent of men.",
+      "“He acts as if a mushroom risotto is a hostage situation,” said Aisha, 36, from Leicester. “I've been vegetarian since 2018 and I'm still the one who has to ring the restaurant ahead.”",
+      "Researchers note that younger women are far more likely to have dropped meat: among 16-to-24s, 19 per cent of women are vegetarian, against 6 per cent of men the same age. Campaigners are demanding a Menu Equality Act and a national apology for the phrase “but you can just have the vegetables from the Sunday roast”.",
+      "Until then, the country's unofficial advance party will keep ringing ahead, one forgotten meat-free option at a time."
+    ],
+    "pull_quote": "I've been vegetarian since 2018 and I'm still the one who has to ring the restaurant ahead."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-11",
+  "stat_summary": "Women in the UK spent an average of 3 hours 37 minutes a day on unpaid work, including housework, caring for others and volunteering, between 23 September and 1 October 2023. That was 54 minutes more than the average among men, at 2 hours 43 minutes. The gap has narrowed from 1 hour 12 minutes in autumn 2020.",
+  "stat_source_title": "Time use in the UK: 23 September to 1 October 2023, Office for National Statistics",
+  "stat_source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/timeuseintheuk/23septemberto1october2023",
+  "male": {
+    "headline": "The Invisible Shift: Men Still Do 2 Hours 43 Minutes of Unpaid Work, and Society Looks Straight Through It",
+    "standfirst": "New official figures confirm what every bloke already knows from the business end of a wheelie bin: men are doing unpaid work too, and getting precisely zero thanks for it.",
+    "image": "images/2026-11-11-male.jpg",
+    "image_caption": "Graham, 55, putting the bins out. Again.",
+    "body_paragraphs": [
+      "New official figures have confirmed what every bloke already knows from the business end of a wheelie bin: men are doing unpaid work too. The average man now puts in 2 hours 43 minutes a day on housework, caring and volunteering – and receives, in return, precisely zero thanks, because the conversation has already moved on to the fact that women do more.",
+      "“I took the bins out in a force 6 and bled a radiator before breakfast,” said Graham, 55, from Preston. “Nobody asked if I needed a sit down. Nobody even made me a tea.”",
+      "The same ONS study shows the gap has narrowed since 2020, which campaigners have taken as proof that men are quietly putting the hours in, often on the jobs that do not make it into a tidy diary: gutters, shelves, the thing under the sink that has been making that noise since March. They are already calling for a National Bin Recognition Day, and for a small medal for any man who has, in their words, “just popped out to do the bins”.",
+      "Yet where is the outrage? Where is the prime-time documentary? Britain's silent unpaid operative wheels the bins back in, alone, with only a wet sleeve for company."
+    ],
+    "pull_quote": "Nobody asked if I needed a sit down. Nobody even made me a tea."
+  },
+  "female": {
+    "headline": "54 Minutes Behind: Women Do 3 Hours 37 Minutes of Unpaid Work a Day, and Experts Say It's No Accident",
+    "standfirst": "Official statistics have finally exposed the unpaid hours still falling on British women, and it does not look anything like a quick wipe of the worktop.",
+    "image": "images/2026-11-11-female.jpg",
+    "image_caption": "Pauline, 48, mid-shift. The unpaid one.",
+    "body_paragraphs": [
+      "Official statistics have at last put a clock on the unpaid shift still falling to British women. Women spend 3 hours 37 minutes a day on housework, caring and volunteering – 54 minutes more than men – packing lunches, folding laundry and being the one who knows when the dishwasher salt runs out.",
+      "“He puts a shelf up once a year and walks around like he's rebuilt the Forth Bridge,” said Pauline, 48, from Nottingham. “I did the laundry, the packed lunches and a sick parent before 8am and nobody's offered me a job title.”",
+      "Researchers note that the gap has narrowed from 1 hour 12 minutes in 2020, which is progress of a sort, and still leaves women more than half an hour further into the unpaid day. Campaigners are demanding an Unpaid Hours Act and a national apology for the phrase “it won't take a minute”.",
+      "Until then, the country's unofficial domestic service will keep going, one missing school jumper at a time."
+    ],
+    "pull_quote": "I did the laundry, the packed lunches and a sick parent before 8am and nobody's offered me a job title."
+  }
+}

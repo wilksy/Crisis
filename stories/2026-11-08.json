@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-08",
+  "stat_summary": "In 2023/24, 73% of women in England had given money to charity in the previous four weeks, compared with 62% of men, according to the Community Life Survey. The overall figure was 67%. Buying goods from a charity shop or catalogue (28%) and giving by direct debit (23%) were the most common methods.",
+  "stat_source_title": "Community Life Survey 2023/24: Volunteering and charitable giving, Department for Culture, Media and Sport",
+  "stat_source_url": "https://www.gov.uk/government/statistics/community-life-survey-202324-annual-publication/community-life-survey-202324-volunteering-and-charitable-giving",
+  "male": {
+    "headline": "The Quiet Fiver: 62 Per Cent of Men Gave to Charity Last Month, and Nobody Mentioned It",
+    "standfirst": "New official figures confirm what every bloke already knows from the awkward shuffle at a collection tin: most British men still give, and they get precisely zero fuss about it, which is just how they like it, until they start to wonder.",
+    "image": "images/2026-11-08-male.jpg",
+    "image_caption": "Malcolm, 61, slipping in a note. No sticker required.",
+    "body_paragraphs": [
+      "New official figures have confirmed what every bloke already knows from the awkward shuffle at a collection tin: most British men still give. Sixty-two per cent had donated in the previous four weeks, and they received, in return, precisely zero fuss, which would be fine if anybody had at least nodded.",
+      "“I bought a book of raffle tickets at the rugby club and I've not heard a word since,” said Malcolm, 61, from Exeter. “For all I know I've funded a new roof. Nobody even offered me a warm sausage roll.”",
+      "The same survey finds buying from a charity shop and giving by direct debit are the most common methods, which campaigners say rather buries the quiet male donor who still stops at a tin and walks off without a sticker. They are already calling for a National Quiet Donor Day, and for a small nod – just a nod – for any man who has, in their words, “put a fiver in and kept walking”.",
+      "Yet where is the outrage? Where is the documentary? Britain's silent contributor pockets his change, alone, with only a lighter wallet for company."
+    ],
+    "pull_quote": "For all I know I've funded a new roof. Nobody even offered me a warm sausage roll."
+  },
+  "female": {
+    "headline": "Always Good for a Donation: 73 Per Cent of Women Gave Last Month, and They're Exhausted of Being Asked First",
+    "standfirst": "Official statistics have finally measured the charitable load still landing on British women, and it does not look anything like a spontaneous fiver.",
+    "image": "images/2026-11-08-female.jpg",
+    "image_caption": "Susan, 52, with the bag that has been in the hall since Tuesday.",
+    "body_paragraphs": [
+      "Official statistics have at last measured the charitable load still landing on British women. Seventy-three per cent had given money in the previous four weeks – 11 points more than men – which, as any woman with a direct debit and a bag of clothes in the hall already knew, is not a coincidence.",
+      "“He puts a pound in a tin once a year and talks about it until Easter,” said Susan, 52, from Norwich. “I have three direct debits, a raffle book and a bag of clothes by the door, and nobody's made me chair of anything.”",
+      "Researchers note that buying from a charity shop is the most common method of giving, at 28 per cent, followed by direct debit at 23 per cent – both of which tend to involve someone remembering, bagging, and standing in a small queue. Campaigners are demanding a First-to-Be-Asked Act and a national apology for the phrase “you're better at this sort of thing”.",
+      "Until then, the country's unofficial fundraising department will keep a bag in the hallway, one outgrown coat at a time."
+    ],
+    "pull_quote": "I have three direct debits, a raffle book and a bag of clothes by the door, and nobody's made me chair of anything."
+  }
+}
