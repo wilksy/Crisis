@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-12",
+  "stat_summary": "UK women spend 4 hours 36 minutes a day online on average, compared with 4 hours 3 minutes for men – an extra 33 minutes. Among 18-24s the gap is wider still, at 6 hours 36 minutes for women against 5 hours 28 minutes for men. Men, however, spend 4 hours 49 minutes a month on the top 10 news sites, compared with 3 hours 28 minutes for women, and 50% of men have used generative AI in the past year, against 33% of women.",
+  "stat_source_title": "Online Nation 2024, Ofcom",
+  "stat_source_url": "https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/digital-differences-between-men-and-women-revealed",
+  "male": {
+    "headline": "News Warriors: Men Spend 39 Per Cent Longer on the Top Sites While Society Looks the Other Way",
+    "standfirst": "New official figures confirm what every bloke already knows from the glow of a 6am phone screen: men are doing the heavy lifting of staying informed, and getting precisely zero thanks for it.",
+    "image": "images/2026-11-12-male.jpg",
+    "image_caption": "Derek, 51, just checking the news.",
+    "body_paragraphs": [
+      "New official figures have confirmed what every bloke already knows from the glow of a 6am phone screen: men are doing the heavy lifting of staying informed. The average man now spends 4 hours 49 minutes a month on the country's top news sites – a thumping 39 per cent more than the average woman – and receives, in return, precisely zero thanks.",
+      "“I only opened the BBC app to see if the bins had moved to Thursday,” said Derek, 51, from Bolton. “Three articles later I could have briefed the Cabinet. Nobody offered me a biscuit.”",
+      "The same Ofcom study shows 50 per cent of men have used generative AI in the past year, against 33 per cent of women. That is more tools, more tabs, and more time explaining to the group chat why the printer still will not work. Campaigners are already calling for a National Informed Citizen Day, and for a special setting on every phone that does not count as screen time if a man is, in their words, “just trying to find out what's going on”.",
+      "Yet where is the outrage? Where is the prime-time documentary? Britain's silent news monitor scrolls on, alone, with only a half-loaded homepage for company."
+    ],
+    "pull_quote": "Three articles later I could have briefed the Cabinet. Nobody offered me a biscuit."
+  },
+  "female": {
+    "headline": "Death by a Thousand Notifications: Women Spend 33 Extra Minutes Online a Day, and Experts Say It's No Coincidence",
+    "standfirst": "Official statistics have finally exposed the hidden digital labour crisis gripping British women, and it does not look anything like a quiet night in with a box set.",
+    "image": "images/2026-11-12-female.jpg",
+    "image_caption": "Helen, 43, still admin of the street WhatsApp.",
+    "body_paragraphs": [
+      "Official statistics have at last exposed the hidden digital labour crisis gripping British women. Women now spend 4 hours 36 minutes a day online – 33 minutes more than men – answering the family WhatsApp, the school form that was due yesterday, and the group chat that cannot decide on a date.",
+      "“He watches one YouTube video about bleeding a radiator and calls it research,” said Helen, 43, from Coventry. “I've been admin of the street WhatsApp since 2019 and nobody's offered me a seat in the Cabinet.”",
+      "Researchers note that the gap is widest among 18-to-24s, where women spend 6 hours 36 minutes a day online against 5 hours 28 minutes for men – more than an hour of extra notifications, threads and “can you just have a look at this?”. Campaigners are demanding a Digital Load Act and a national apology for the phrase “I'll just ping it over to you”.",
+      "Until then, the country's unofficial helpdesk will keep typing, one unread school newsletter at a time."
+    ],
+    "pull_quote": "I've been admin of the street WhatsApp since 2019 and nobody's offered me a seat in the Cabinet."
+  }
+}
