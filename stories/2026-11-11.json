@@ -1,32 +1,32 @@
 {
   "date": "2026-11-11",
-  "stat_summary": "Women in the UK spent an average of 3 hours 37 minutes a day on unpaid work, including housework, caring for others and volunteering, between 23 September and 1 October 2023. That was 54 minutes more than the average among men, at 2 hours 43 minutes. The gap has narrowed from 1 hour 12 minutes in autumn 2020.",
-  "stat_source_title": "Time use in the UK: 23 September to 1 October 2023, Office for National Statistics",
-  "stat_source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/timeuseintheuk/23septemberto1october2023",
+  "stat_summary": "On 30 September 2025, 76.4% of staff directly employed by NHS Wales were female. Men were in the majority in two staff groups: ambulance staff (57% male) and medical and dental staff (53% male), according to official Welsh Government figures.",
+  "stat_source_title": "NHS workforce: staff directly employed by NHS Wales, 30 September 2025, Welsh Government",
+  "stat_source_url": "https://www.gov.wales/nhs-workforce-staff-directly-employed-nhs-wales-30-september-2025-html",
   "male": {
-    "headline": "The Invisible Shift: Men Still Do 2 Hours 43 Minutes of Unpaid Work, and Society Looks Straight Through It",
-    "standfirst": "New official figures confirm what every bloke already knows from the business end of a wheelie bin: men are doing unpaid work too, and getting precisely zero thanks for it.",
+    "headline": "The Night Shift Nobody Flags: Men Are 57 Per Cent of Ambulance Staff, and the Siren Is the Only Applause They Get",
+    "standfirst": "New official figures confirm what every paramedic already knows from a wet forecourt at 2am: men are doing the majority of the ambulance graft, and getting precious little credit for the part of the NHS that arrives first.",
     "image": "images/2026-11-11-male.jpg",
-    "image_caption": "Graham, 55, putting the bins out. Again.",
+    "image_caption": "Owen, 38, between jobs. The kettle in the cab has packed up.",
     "body_paragraphs": [
-      "New official figures have confirmed what every bloke already knows from the business end of a wheelie bin: men are doing unpaid work too. The average man now puts in 2 hours 43 minutes a day on housework, caring and volunteering – and receives, in return, precisely zero thanks, because the conversation has already moved on to the fact that women do more.",
-      "“I took the bins out in a force 6 and bled a radiator before breakfast,” said Graham, 55, from Preston. “Nobody asked if I needed a sit down. Nobody even made me a tea.”",
-      "The same ONS study shows the gap has narrowed since 2020, which campaigners have taken as proof that men are quietly putting the hours in, often on the jobs that do not make it into a tidy diary: gutters, shelves, the thing under the sink that has been making that noise since March. They are already calling for a National Bin Recognition Day, and for a small medal for any man who has, in their words, “just popped out to do the bins”.",
-      "Yet where is the outrage? Where is the prime-time documentary? Britain's silent unpaid operative wheels the bins back in, alone, with only a wet sleeve for company."
+      "New official figures have confirmed what every paramedic already knows from a wet forecourt at 2am: men are doing the majority of the ambulance graft. Fifty-seven per cent of ambulance staff in NHS Wales are male – one of only two staff groups in which men outnumber women – and they receive, in return, precious little credit for the part of the service that actually arrives first.",
+      "“I stood in the rain for twenty minutes with the back doors open and a radio that would not shut up,” said Owen, 38, from Swansea. “A passer-by asked if we were filming something. Nobody offered to fetch a cup of tea.”",
+      "The same official release shows men are also a slight majority among medical and dental staff, at 53 per cent, even while they are a clear minority of the workforce as a whole. Campaigners are already calling for a National First-On-Scene Day, and for a reserved parking space at every hospital for crews who are, in their words, “just trying to get the job in”.",
+      "Yet where is the outrage? Where is the documentary? Britain's unsung night shift closes the doors, alone, with only the siren for company."
     ],
-    "pull_quote": "Nobody asked if I needed a sit down. Nobody even made me a tea."
+    "pull_quote": "A passer-by asked if we were filming something. Nobody offered to fetch a cup of tea."
   },
   "female": {
-    "headline": "54 Minutes Behind: Women Do 3 Hours 37 Minutes of Unpaid Work a Day, and Experts Say It's No Accident",
-    "standfirst": "Official statistics have finally exposed the unpaid hours still falling on British women, and it does not look anything like a quick wipe of the worktop.",
+    "headline": "She Is the NHS: 76 Per Cent of the Workforce Is Female, and They're Still Holding the Place Together",
+    "standfirst": "Official figures have finally put a number on who actually staffs the health service, and it does not look anything like a brief appearance in a drama.",
     "image": "images/2026-11-11-female.jpg",
-    "image_caption": "Pauline, 48, mid-shift. The unpaid one.",
+    "image_caption": "Ffion, 44, end of shift. The tea is the first sitting-down of the day.",
     "body_paragraphs": [
-      "Official statistics have at last put a clock on the unpaid shift still falling to British women. Women spend 3 hours 37 minutes a day on housework, caring and volunteering – 54 minutes more than men – packing lunches, folding laundry and being the one who knows when the dishwasher salt runs out.",
-      "“He puts a shelf up once a year and walks around like he's rebuilt the Forth Bridge,” said Pauline, 48, from Nottingham. “I did the laundry, the packed lunches and a sick parent before 8am and nobody's offered me a job title.”",
-      "Researchers note that the gap has narrowed from 1 hour 12 minutes in 2020, which is progress of a sort, and still leaves women more than half an hour further into the unpaid day. Campaigners are demanding an Unpaid Hours Act and a national apology for the phrase “it won't take a minute”.",
-      "Until then, the country's unofficial domestic service will keep going, one missing school jumper at a time."
+      "Official figures have at last put a number on who actually staffs the health service. On 30 September 2025, 76.4 per cent of staff directly employed by NHS Wales were women, which means that, in any honest reading, they are not helping to run the NHS. They are the NHS.",
+      "“He did a 12-hour shift and talked about it all weekend,” said Ffion, 44, from Cardiff. “I have done five in a row, missed the kettle twice and still have the handover to write, and nobody's named a ward after me.”",
+      "The same statistics show women making up the overwhelming majority of the service even as men predominate in a couple of high-visibility groups. Campaigners are demanding a Handover Act of Thanks and a national apology for the phrase “the nurses will deal with that”.",
+      "Until then, the country's unofficial backbone will keep the bay moving, one lukewarm cup of tea at a time."
     ],
-    "pull_quote": "I did the laundry, the packed lunches and a sick parent before 8am and nobody's offered me a job title."
+    "pull_quote": "I have done five in a row, missed the kettle twice and still have the handover to write, and nobody's named a ward after me."
   }
 }

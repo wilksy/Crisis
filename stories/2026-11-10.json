@@ -1,32 +1,32 @@
 {
   "date": "2026-11-10",
-  "stat_summary": "A YouGov food study found that 82% of British men describe themselves as meat-eaters, compared with 69% of women. Six per cent of Britons overall are vegetarian, including 8% of women and 3% of men. A further 11% call themselves flexitarian, 3% pescatarian and 2% vegan.",
-  "stat_source_title": "Part One: General attitudes towards food and eating, YouGov Food Study",
-  "stat_source_url": "https://yougov.com/en-gb/articles/41668-part-one-general-attitudes-towards-food-and-eating",
+  "stat_summary": "Of all UK higher education students in 2023/24, 57% were female and 43% were male, a split that has been unchanged since 2016/17, according to HESA. The gap is widest on other undergraduate courses and narrowest on postgraduate research courses.",
+  "stat_source_title": "Higher Education Student Statistics: UK, 2023/24, HESA",
+  "stat_source_url": "https://www.hesa.ac.uk/news/20-03-2025/sb271-higher-education-student-statistics/numbers",
   "male": {
-    "headline": "Leave the Sausage Alone: 82 Per Cent of British Men Eat Meat, and They're Tired of Apologising",
-    "standfirst": "New survey figures confirm what every bloke already knows from the wrong end of a gastropub menu: most British men still eat meat, and they are getting precisely zero peace about it.",
+    "headline": "Where Have All the Lads Gone: Men Are Just 43 Per Cent of University Students, and Nobody Has Called It a Crisis",
+    "standfirst": "New official figures confirm what every bloke already knows from a lecture theatre that leans one way: men have become the minority on campus, and the country has largely decided not to make a fuss about it.",
     "image": "images/2026-11-10-male.jpg",
-    "image_caption": "Terry, 44, and a pie that asked no questions.",
+    "image_caption": "Callum, 20, keeping a seat warm for a cohort that never arrived.",
     "body_paragraphs": [
-      "New survey figures have confirmed what every bloke already knows from the wrong end of a gastropub menu: most British men still eat meat. Fully 82 per cent describe themselves as meat-eaters, against 69 per cent of women, and they receive, in return, precisely zero peace in which to finish a sausage.",
-      "“I ordered a chicken pie in a gastropub,” said Terry, 44, from Grimsby. “The waiter looked at me as if I'd asked for a badger. Nobody offered me a complimentary roast potato by way of thanks.”",
-      "The same study finds that only 3 per cent of men are vegetarian, against 8 per cent of women, which campaigners have taken as evidence that a silent carnivorous majority is going uncatered for. They are already calling for a National Meat Appreciation Week, and for a designated “no questions asked” section of every pub menu for men who are, in their words, “just trying to have their dinner”.",
-      "Yet where is the outrage? Where is the documentary? Britain's unapologetic pie man chews on, alone, with only a jug of gravy for company."
+      "New official figures have confirmed what every bloke already knows from a lecture theatre that leans one way: men are now clearly the minority in British higher education. Only 43 per cent of students in 2023/24 were male, against 57 per cent female, a split that has not shifted since 2016/17, and the country has largely decided not to call it a crisis.",
+      "“I counted the lads in my seminar and ran out of fingers with some to spare,” said Callum, 20, from Hull. “Someone asked if I was in the wrong room. Nobody asked where the others had gone.”",
+      "The same HESA statistics show the gap is even wider on other undergraduate courses, which rather suggests the missing men are not all off doing doctorates. Campaigners are already calling for a National Lost Lads Inquiry, and for a careers talk in every school that does not, in their words, “assume the boys will be fine”.",
+      "Yet where is the outrage? Where is the documentary? Britain's scarce undergraduate male opens his notebook, alone, with only a rucksack on the next chair for company."
     ],
-    "pull_quote": "The waiter looked at me as if I'd asked for a badger. Nobody offered me a complimentary roast potato by way of thanks."
+    "pull_quote": "Someone asked if I was in the wrong room. Nobody asked where the others had gone."
   },
   "female": {
-    "headline": "She's Not Being Difficult: Women Are More Than Twice as Likely to Be Vegetarian, and It's Not a Phase",
-    "standfirst": "Official polling has finally put a number on the quiet dietary diplomacy still being done by British women, and it does not look anything like a fuss over a side salad.",
+    "headline": "She Sat the Exam: 57 Per Cent of Students Are Women, and They're the Ones Propping Up the Lecture Theatre",
+    "standfirst": "Official statistics have finally measured who is actually doing the degrees, and it does not look like a lad-heavy campus from a 1990s prospectus.",
     "image": "images/2026-11-10-female.jpg",
-    "image_caption": "Aisha, 36, ringing ahead. Again.",
+    "image_caption": "Maya, 22, still in the library. The dissertation has not marked itself.",
     "body_paragraphs": [
-      "Official polling has at last put a number on the quiet dietary diplomacy still being done by British women. Eight per cent of women are vegetarian, against just 3 per cent of men – more than twice as many – while 69 per cent of women eat meat, compared with 82 per cent of men.",
-      "“He acts as if a mushroom risotto is a hostage situation,” said Aisha, 36, from Leicester. “I've been vegetarian since 2018 and I'm still the one who has to ring the restaurant ahead.”",
-      "Researchers note that younger women are far more likely to have dropped meat: among 16-to-24s, 19 per cent of women are vegetarian, against 6 per cent of men the same age. Campaigners are demanding a Menu Equality Act and a national apology for the phrase “but you can just have the vegetables from the Sunday roast”.",
-      "Until then, the country's unofficial advance party will keep ringing ahead, one forgotten meat-free option at a time."
+      "Official statistics have at last measured who is actually doing the degrees. Fifty-seven per cent of UK higher education students in 2023/24 were women – a 14-point gap that has been stable for years – which means the lecture theatres, the libraries and the exam halls are, in any honest count, being propped up by them.",
+      "“He did one group project and put it at the top of his CV,” said Maya, 22, from Leeds. “I wrote the literature review, booked the room and submitted it at 11.58pm, and nobody's named a library wing after me.”",
+      "Researchers note that women are the majority at almost every level of study, so this is not a blip in a single subject. Campaigners are demanding a Credit Where It's Due Act and a national apology for the phrase “you'll be fine, girls always do the work”.",
+      "Until then, the country's unofficial first-class majority will keep a seat in the library, one overdue chapter at a time."
     ],
-    "pull_quote": "I've been vegetarian since 2018 and I'm still the one who has to ring the restaurant ahead."
+    "pull_quote": "I wrote the literature review, booked the room and submitted it at 11.58pm, and nobody's named a library wing after me."
   }
 }

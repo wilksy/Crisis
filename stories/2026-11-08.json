@@ -1,32 +1,32 @@
 {
   "date": "2026-11-08",
-  "stat_summary": "In 2023/24, 73% of women in England had given money to charity in the previous four weeks, compared with 62% of men, according to the Community Life Survey. The overall figure was 67%. Buying goods from a charity shop or catalogue (28%) and giving by direct debit (23%) were the most common methods.",
-  "stat_source_title": "Community Life Survey 2023/24: Volunteering and charitable giving, Department for Culture, Media and Sport",
-  "stat_source_url": "https://www.gov.uk/government/statistics/community-life-survey-202324-annual-publication/community-life-survey-202324-volunteering-and-charitable-giving",
+  "stat_summary": "In 2024/25, 76% of teachers in state-funded schools in England were female. Only 14% of nursery and primary school teachers were male, compared with 35% of secondary school teachers and 24% of teachers in special schools and pupil referral units, according to the School Workforce Census.",
+  "stat_source_title": "School workforce in England, Reporting year 2024, Department for Education",
+  "stat_source_url": "https://explore-education-statistics.service.gov.uk/find-statistics/school-workforce-in-england/2024",
   "male": {
-    "headline": "The Quiet Fiver: 62 Per Cent of Men Gave to Charity Last Month, and Nobody Mentioned It",
-    "standfirst": "New official figures confirm what every bloke already knows from the awkward shuffle at a collection tin: most British men still give, and they get precisely zero fuss about it, which is just how they like it, until they start to wonder.",
+    "headline": "The Only Bloke in the Staffroom: Just 14 Per Cent of Primary Teachers Are Men, and the Pegs Have Noticed",
+    "standfirst": "New official figures confirm what every male primary teacher already knows from the staff pigeonholes: he is a rare sight, doing a job the country keeps saying it wants more of, and getting precious little for it.",
     "image": "images/2026-11-08-male.jpg",
-    "image_caption": "Malcolm, 61, slipping in a note. No sticker required.",
+    "image_caption": "Tom, 34, putting the chairs up. Still the only bloke on the corridor.",
     "body_paragraphs": [
-      "New official figures have confirmed what every bloke already knows from the awkward shuffle at a collection tin: most British men still give. Sixty-two per cent had donated in the previous four weeks, and they received, in return, precisely zero fuss, which would be fine if anybody had at least nodded.",
-      "“I bought a book of raffle tickets at the rugby club and I've not heard a word since,” said Malcolm, 61, from Exeter. “For all I know I've funded a new roof. Nobody even offered me a warm sausage roll.”",
-      "The same survey finds buying from a charity shop and giving by direct debit are the most common methods, which campaigners say rather buries the quiet male donor who still stops at a tin and walks off without a sticker. They are already calling for a National Quiet Donor Day, and for a small nod – just a nod – for any man who has, in their words, “put a fiver in and kept walking”.",
-      "Yet where is the outrage? Where is the documentary? Britain's silent contributor pockets his change, alone, with only a lighter wallet for company."
+      "New official figures have confirmed what every male primary teacher already knows from the staff pigeonholes: he is a rare sight. Just 14 per cent of nursery and primary teachers in England are men – against 35 per cent in secondary schools – which means a great many children will go through their first years of school without ever being taught by one.",
+      "“A parent asked if I was the caretaker, then the PE man, then somebody's dad,” said Tom, 34, from Derby. “I said I was the class teacher. Nobody offered me a lanyard that actually covered it.”",
+      "The same census shows the teaching workforce as a whole is 76 per cent female, a figure that has barely shifted in years, even as ministers talk about attracting more men into the classroom. Campaigners are already calling for a National Male Teacher Day, and for a staff toilet that is not, in their words, “down the corridor and through the hall”.",
+      "Yet where is the outrage? Where is the recruitment drive that actually works? Britain's scarce primary bloke stacks the tiny chairs, alone, with only a lost cardigan for company."
     ],
-    "pull_quote": "For all I know I've funded a new roof. Nobody even offered me a warm sausage roll."
+    "pull_quote": "A parent asked if I was the caretaker, then the PE man, then somebody's dad."
   },
   "female": {
-    "headline": "Always Good for a Donation: 73 Per Cent of Women Gave Last Month, and They're Exhausted of Being Asked First",
-    "standfirst": "Official statistics have finally measured the charitable load still landing on British women, and it does not look anything like a spontaneous fiver.",
+    "headline": "She Is the School: 76 Per Cent of Teachers Are Women, and They're Still Marking at Half Past Five",
+    "standfirst": "Official workforce figures have finally stated the obvious about who is actually running England's classrooms, and it does not look anything like a short day.",
     "image": "images/2026-11-08-female.jpg",
-    "image_caption": "Susan, 52, with the bag that has been in the hall since Tuesday.",
+    "image_caption": "Sharon, 51, still marking. The tea has gone cold.",
     "body_paragraphs": [
-      "Official statistics have at last measured the charitable load still landing on British women. Seventy-three per cent had given money in the previous four weeks – 11 points more than men – which, as any woman with a direct debit and a bag of clothes in the hall already knew, is not a coincidence.",
-      "“He puts a pound in a tin once a year and talks about it until Easter,” said Susan, 52, from Norwich. “I have three direct debits, a raffle book and a bag of clothes by the door, and nobody's made me chair of anything.”",
-      "Researchers note that buying from a charity shop is the most common method of giving, at 28 per cent, followed by direct debit at 23 per cent – both of which tend to involve someone remembering, bagging, and standing in a small queue. Campaigners are demanding a First-to-Be-Asked Act and a national apology for the phrase “you're better at this sort of thing”.",
-      "Until then, the country's unofficial fundraising department will keep a bag in the hallway, one outgrown coat at a time."
+      "Official workforce figures have at last stated the obvious about who is actually running England's classrooms. Seventy-six per cent of teachers in state-funded schools are women, and in nursery and primary schools the share is 86 per cent, which means the system is, in any honest reading, being held up by them.",
+      "“He came in to do assembly once and went home to a round of applause,” said Sharon, 51, from Plymouth. “I have 30 books to mark, a lost lunchbox and a parents' evening, and nobody's named the staffroom kettle after me.”",
+      "Researchers – and anyone who has ever collected a child at the gate – will note that this is not a new pattern, and that women are still slightly less likely than men to be in leadership posts, even while they do the overwhelming share of the classroom work. Campaigners are demanding a Marking Hours Act and a national apology for the phrase “lucky you, finishing at 3.30”.",
+      "Until then, the country's unofficial education service will keep stacking the exercise books, one cold mug of tea at a time."
     ],
-    "pull_quote": "I have three direct debits, a raffle book and a bag of clothes by the door, and nobody's made me chair of anything."
+    "pull_quote": "I have 30 books to mark, a lost lunchbox and a parents' evening, and nobody's named the staffroom kettle after me."
   }
 }

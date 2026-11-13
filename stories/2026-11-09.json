@@ -1,32 +1,32 @@
 {
   "date": "2026-11-09",
-  "stat_summary": "In the Gambling Survey for Great Britain covering July to October 2025, 16% of men reported betting in the past four weeks, compared with 4% of women. Overall gambling participation was also higher among men, at 52% against 45% of women, though much of that is lottery play.",
-  "stat_source_title": "Statistics on gambling participation – Wave 3, July to October 2025, Gambling Commission",
-  "stat_source_url": "https://www.gamblingcommission.gov.uk/statistics-and-research/publication/statistics-on-gambling-participation-wave-3-july-to-october-2025-official",
+  "stat_summary": "In Ofcom's Adults' Media Use and Attitudes Report 2025, 57% of UK men said they play games, compared with 50% of women. Overall, 53% of UK adults play games at home or elsewhere, with mobile phones the most-used device.",
+  "stat_source_title": "Adults' Media Use and Attitudes Report 2025, Ofcom",
+  "stat_source_url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/adults-media-use-and-attitudes",
   "male": {
-    "headline": "The 3.20 at Haydock: Men Are Four Times as Likely to Have a Bet, and They'd Like Credit for the Homework",
-    "standfirst": "New official figures confirm what every bloke already knows from the back page of a damp racing paper: men are doing the form, and getting precisely zero thanks for the research.",
+    "headline": "Just One More Game: 57 Per Cent of Men Play Video Games, and They're Tired of Being Told to Get a Proper Hobby",
+    "standfirst": "New official figures confirm what every bloke already knows from the pause menu: men are more likely to play games, and therefore more likely to be told that what they are doing does not count as a life.",
     "image": "images/2026-11-09-male.jpg",
-    "image_caption": "Colin, 62, mid-study. The 3.20 is not going well.",
+    "image_caption": "Liam, 29, one more turn from being asked when he will grow up.",
     "body_paragraphs": [
-      "New official figures have confirmed what every bloke already knows from the back page of a damp racing paper: men are doing the form. Sixteen per cent of men had a bet in the past four weeks – four times the 4 per cent of women – and they receive, in return, precisely zero credit for the homework.",
-      "“I spent twenty minutes on the 3.20 at Haydock and still picked the one that tried to jump the rail,” said Colin, 62, from Wigan. “Nobody asked for my tips. Nobody even offered to get the next round in.”",
-      "The same Gambling Commission survey shows overall gambling is also higher among men, at 52 per cent against 45 per cent of women, though much of that is the lottery. Campaigners are already calling for a National Accumulator Day, and for a reserved corner of every pub for men who are, in their words, “just having a little interest in the racing”.",
-      "Yet where is the outrage? Where is the documentary? Britain's unpaid student of the form guide squints on, alone, with only a chewed biro for company."
+      "New official figures have confirmed what every bloke already knows from the pause menu: men are more likely to play video games. Fifty-seven per cent of UK men do so, against 50 per cent of women, which means the lecture about getting a proper hobby, going outside, and using their time more wisely lands, with great regularity, on them.",
+      "“I sat down for a quiet hour after work and was asked when I was going to grow up,” said Liam, 29, from Newcastle. “The same person had just watched four hours of a baking contest. Nobody offered me a slice of the cake.”",
+      "The same Ofcom study finds that 53 per cent of all adults now play games, and that phones, not just living-room consoles, are the most-used device, which has not stopped the stereotype of the idle man on the sofa. Campaigners are already calling for a National Proper Hobby Amnesty, and for a household rule that anyone who has completed a box set may not, in their words, “start on the Xbox”.",
+      "Yet where is the outrage? Where is the documentary? Britain's unofficial weekend athlete stares down the loading screen, alone, with only a cooling mug of tea for company."
     ],
-    "pull_quote": "Nobody asked for my tips. Nobody even offered to get the next round in."
+    "pull_quote": "The same person had just watched four hours of a baking contest. Nobody offered me a slice of the cake."
   },
   "female": {
-    "headline": "Always the Cashier: Only 4 Per Cent of Women Had a Bet Last Month, but Someone Still Has to Collect the Sweepstake",
-    "standfirst": "Official statistics have finally explained a mystery familiar to every British workplace: women are far less likely to have a flutter, and somehow still end up holding the envelope.",
+    "headline": "She Doesn't Look Like a Gamer: Half of British Women Play Video Games, and Nobody Has Updated the Stereotype",
+    "standfirst": "Official figures have finally caught up with a fact hiding in plain sight: 50 per cent of women play games, and they are still treated as if they have wandered in by mistake.",
     "image": "images/2026-11-09-female.jpg",
-    "image_caption": "Denise, 57, unofficial treasurer. Again.",
+    "image_caption": "Priya, 31, mid-quest, and no, she is not waiting for her turn.",
     "body_paragraphs": [
-      "Official statistics have at last explained a mystery familiar to every British workplace. Only 4 per cent of women had a bet in the past four weeks, against 16 per cent of men, which has not stopped anyone asking them to run the office sweepstake.",
-      "“I am invited to join it every year and then ignored until they want someone to collect the money,” said Denise, 57, from Blackpool. “I have never knowingly studied a form guide, and nobody's thanked me for being cashier.”",
-      "Researchers note that the overall gambling gap is much narrower – 52 per cent of men against 45 per cent of women – once lotteries are included, which rather suggests the real divide is not “having a go” so much as being expected to do the admin. Campaigners are demanding a Sweepstake Equality Act and a national apology for the phrase “go on, just pick one”.",
-      "Until then, the country's unofficial bookkeepers will keep the envelope in a desk drawer, one crumpled pound coin at a time."
+      "Official figures have at last caught up with a fact hiding in plain sight. Fifty per cent of UK women play video games – only seven points behind men, and right on the national average of 53 per cent – and they are still asked, with astonishing regularity, whether they are waiting for someone else to have a go.",
+      "“A bloke in the shop asked if the game was for my boyfriend,” said Priya, 31, from Birmingham. “I said it was for me. He looked at my Switch as if I'd brought in a lawnmower.”",
+      "Researchers note that phones are now the most common gaming device, which rather dismantles the idea that the only real players are men on sofas. Campaigners are demanding a Stereotype Patch and a national apology for the phrase “you don't look like a gamer”.",
+      "Until then, the country's unofficial half of the player base will keep a save file going, one assumed boyfriend at a time."
     ],
-    "pull_quote": "I have never knowingly studied a form guide, and nobody's thanked me for being cashier."
+    "pull_quote": "A bloke in the shop asked if the game was for my boyfriend. I said it was for me."
   }
 }
