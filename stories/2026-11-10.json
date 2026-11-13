@@ -4,29 +4,29 @@
   "stat_source_title": "Higher Education Student Statistics: UK, 2023/24, HESA",
   "stat_source_url": "https://www.hesa.ac.uk/news/20-03-2025/sb271-higher-education-student-statistics/numbers",
   "male": {
-    "headline": "Where Have All the Lads Gone: Men Are Just 43 Per Cent of University Students, and Nobody Has Called It a Crisis",
-    "standfirst": "New official figures confirm what every bloke already knows from a lecture theatre that leans one way: men have become the minority on campus, and the country has largely decided not to make a fuss about it.",
+    "headline": "The Girls + Callum: Men Are Just 43 Per Cent of University Students, and He's Been Put in Charge of the HDMI Cable",
+    "standfirst": "New official figures confirm what every bloke already knows from a seminar that leans one way, a group chat with an unfortunate name, and the question of whether he is in the wrong room.",
     "image": "images/2026-11-10-male.jpg",
-    "image_caption": "Callum, 20, keeping a seat warm for a cohort that never arrived.",
+    "image_caption": "Callum, 20, keeping a seat warm for a cohort that has not, as yet, arrived.",
     "body_paragraphs": [
-      "New official figures have confirmed what every bloke already knows from a lecture theatre that leans one way: men are now clearly the minority in British higher education. Only 43 per cent of students in 2023/24 were male, against 57 per cent female, a split that has not shifted since 2016/17, and the country has largely decided not to call it a crisis.",
-      "“I counted the lads in my seminar and ran out of fingers with some to spare,” said Callum, 20, from Hull. “Someone asked if I was in the wrong room. Nobody asked where the others had gone.”",
-      "The same HESA statistics show the gap is even wider on other undergraduate courses, which rather suggests the missing men are not all off doing doctorates. Campaigners are already calling for a National Lost Lads Inquiry, and for a careers talk in every school that does not, in their words, “assume the boys will be fine”.",
-      "Yet where is the outrage? Where is the documentary? Britain's scarce undergraduate male opens his notebook, alone, with only a rucksack on the next chair for company."
+      "New official figures have confirmed what every bloke already knows from a lecture theatre that leans one way: men are now clearly the minority in British higher education. Only 43 per cent of students in 2023/24 were male, against 57 per cent female, a split that has not shifted since 2016/17, and the main official response, so far, has been to hand the remaining lad the HDMI cable.",
+      "“Our group chat is called ‘the girls + Callum’,” said Callum, 20, from Hull. “I have been put in charge of the HDMI cable. Nobody has asked where the other lads went, but they have asked me to move a table.”",
+      "The same HESA statistics show the gap is even wider on other undergraduate courses, which rather suggests the missing men are not all off doing doctorates. Campaigners are already calling for a careers talk in every school that does not, in their words, “assume the boys will be fine”, and for a spare chair that is not immediately used as a bag.",
+      "Yet where is the outrage? Where is the documentary? Britain’s scarce undergraduate male opens his notebook, alone, with only a rucksack on the next chair for company."
     ],
-    "pull_quote": "Someone asked if I was in the wrong room. Nobody asked where the others had gone."
+    "pull_quote": "Our group chat is called ‘the girls + Callum’. I have been put in charge of the HDMI cable."
   },
   "female": {
-    "headline": "She Sat the Exam: 57 Per Cent of Students Are Women, and They're the Ones Propping Up the Lecture Theatre",
-    "standfirst": "Official statistics have finally measured who is actually doing the degrees, and it does not look like a lad-heavy campus from a 1990s prospectus.",
+    "headline": "Submitted at 11.58pm: 57 Per Cent of Students Are Women, and They Also Booked the Room",
+    "standfirst": "Official statistics have finally measured who is actually doing the degrees, and it does not look like a lad-heavy campus from a 1990s prospectus, or a fair division of the group project.",
     "image": "images/2026-11-10-female.jpg",
-    "image_caption": "Maya, 22, still in the library. The dissertation has not marked itself.",
+    "image_caption": "Maya, 22, still in the library. The dissertation has not, at any point, marked itself.",
     "body_paragraphs": [
-      "Official statistics have at last measured who is actually doing the degrees. Fifty-seven per cent of UK higher education students in 2023/24 were women – a 14-point gap that has been stable for years – which means the lecture theatres, the libraries and the exam halls are, in any honest count, being propped up by them.",
-      "“He did one group project and put it at the top of his CV,” said Maya, 22, from Leeds. “I wrote the literature review, booked the room and submitted it at 11.58pm, and nobody's named a library wing after me.”",
-      "Researchers note that women are the majority at almost every level of study, so this is not a blip in a single subject. Campaigners are demanding a Credit Where It's Due Act and a national apology for the phrase “you'll be fine, girls always do the work”.",
-      "Until then, the country's unofficial first-class majority will keep a seat in the library, one overdue chapter at a time."
+      "Official statistics have at last measured who is actually doing the degrees. Fifty-seven per cent of UK higher education students in 2023/24 were women – a 14-point gap that has been stable for years – which means the lecture theatres, the libraries and, above all, the group projects are, in any honest count, being propped up by them.",
+      "“He added one slide, called himself ‘team lead’ on LinkedIn, and went to the pub,” said Maya, 22, from Leeds. “I wrote the literature review, booked the room and submitted it at 11.58pm. The slide was in Comic Sans.”",
+      "Researchers note that women are the majority at almost every level of study, so this is not a blip in a single subject, or a one-off booking of a seminar room. Campaigners are demanding a Group Project Credits Act and a national apology for the phrase “you’ll be fine, girls always do the work”.",
+      "Until then, the country’s unofficial first-class majority will keep a seat in the library, one overdue chapter at a time."
     ],
-    "pull_quote": "I wrote the literature review, booked the room and submitted it at 11.58pm, and nobody's named a library wing after me."
+    "pull_quote": "He added one slide, called himself ‘team lead’ on LinkedIn, and went to the pub."
   }
 }

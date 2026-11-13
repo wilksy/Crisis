@@ -1,32 +1,32 @@
 {
   "date": "2026-11-11",
-  "stat_summary": "On 30 September 2025, 76.4% of staff directly employed by NHS Wales were female. Men were in the majority in two staff groups: ambulance staff (57% male) and medical and dental staff (53% male), according to official Welsh Government figures.",
-  "stat_source_title": "NHS workforce: staff directly employed by NHS Wales, 30 September 2025, Welsh Government",
-  "stat_source_url": "https://www.gov.wales/nhs-workforce-staff-directly-employed-nhs-wales-30-september-2025-html",
+  "stat_summary": "A YouGov survey of people living with a partner or spouse found that 46% of men say taking the bins out is down to them alone and 42% say they do all the gardening, while women lead on almost every indoor chore. Women are up to six times more likely than men to say that only they clean the bathroom and do the laundry; 52% of women say they are the ones who do the dusting; and 27% of men have all their clothes washed by their partner, compared with 1% of women.",
+  "stat_source_title": "Do men do their fair share of housework?, YouGov",
+  "stat_source_url": "https://yougov.com/en-gb/articles/27710-do-british-men-do-their-fair-share-housework",
   "male": {
-    "headline": "The Night Shift Nobody Flags: Men Are 57 Per Cent of Ambulance Staff, and the Siren Is the Only Applause They Get",
-    "standfirst": "New official figures confirm what every paramedic already knows from a wet forecourt at 2am: men are doing the majority of the ambulance graft, and getting precious little credit for the part of the NHS that arrives first.",
+    "headline": "Bin Night Warriors: 46 Per Cent of Men Take the Bins Out Alone, and Society Looks the Other Way",
+    "standfirst": "New survey figures confirm what every bloke already knows from a wet pavement in his slippers: men are doing the heavy lifting on bin night, and getting precisely zero thanks for it.",
     "image": "images/2026-11-11-male.jpg",
-    "image_caption": "Owen, 38, between jobs. The kettle in the cab has packed up.",
+    "image_caption": "Martin, 55, just in time, and in slippers.",
     "body_paragraphs": [
-      "New official figures have confirmed what every paramedic already knows from a wet forecourt at 2am: men are doing the majority of the ambulance graft. Fifty-seven per cent of ambulance staff in NHS Wales are male – one of only two staff groups in which men outnumber women – and they receive, in return, precious little credit for the part of the service that actually arrives first.",
-      "“I stood in the rain for twenty minutes with the back doors open and a radio that would not shut up,” said Owen, 38, from Swansea. “A passer-by asked if we were filming something. Nobody offered to fetch a cup of tea.”",
-      "The same official release shows men are also a slight majority among medical and dental staff, at 53 per cent, even while they are a clear minority of the workforce as a whole. Campaigners are already calling for a National First-On-Scene Day, and for a reserved parking space at every hospital for crews who are, in their words, “just trying to get the job in”.",
-      "Yet where is the outrage? Where is the documentary? Britain's unsung night shift closes the doors, alone, with only the siren for company."
+      "New survey figures have confirmed what every bloke already knows from a wet pavement in his slippers: when it comes to the bins, men are doing the heavy lifting. Among people living with a partner, 46 per cent of men say taking the bins out is down to them alone, and 42 per cent say they do all the gardening. In return, they receive precisely zero thanks, and occasionally a look that says the fox has already been.",
+      "“I took both bins down in the rain, in slippers, at ten to twelve, because I’d just remembered the lorry comes at six,” said Martin, 55, from Barnsley. “Nobody threw me a parade. The fox had already been. Nobody even offered me a peg.”",
+      "The same YouGov research finds men leading the outdoor jobs and lagging on almost every indoor one, which rather suggests the nation’s unofficial waste-disposal corps is not, as is sometimes claimed, hiding from the hoover. Campaigners are already calling for a National Bin Night Honour, and for a covered walkway to the wheelie bins reserved for men who are, in their words, “just trying to get them out before the lorry”.",
+      "Yet where is the outrage? Where is the documentary? Britain’s silent bin-night hero wheels them to the kerb, alone, with only a slightly chewed liner for company."
     ],
-    "pull_quote": "A passer-by asked if we were filming something. Nobody offered to fetch a cup of tea."
+    "pull_quote": "Nobody threw me a parade. The fox had already been. Nobody even offered me a peg."
   },
   "female": {
-    "headline": "She Is the NHS: 76 Per Cent of the Workforce Is Female, and They're Still Holding the Place Together",
-    "standfirst": "Official figures have finally put a number on who actually staffs the health service, and it does not look anything like a brief appearance in a drama.",
+    "headline": "Death by a Thousand Socks: Women Are Up to Six Times More Likely to Do the Laundry Alone, and Experts Say It's No Coincidence",
+    "standfirst": "The same survey has finally exposed the indoor chore crisis gripping British women, and it does not look anything like a quick trip to the kerb.",
     "image": "images/2026-11-11-female.jpg",
-    "image_caption": "Ffion, 44, end of shift. The tea is the first sitting-down of the day.",
+    "image_caption": "Lorraine, 48, ruling on a sock that has, officially, no partner.",
     "body_paragraphs": [
-      "Official figures have at last put a number on who actually staffs the health service. On 30 September 2025, 76.4 per cent of staff directly employed by NHS Wales were women, which means that, in any honest reading, they are not helping to run the NHS. They are the NHS.",
-      "“He did a 12-hour shift and talked about it all weekend,” said Ffion, 44, from Cardiff. “I have done five in a row, missed the kettle twice and still have the handover to write, and nobody's named a ward after me.”",
-      "The same statistics show women making up the overwhelming majority of the service even as men predominate in a couple of high-visibility groups. Campaigners are demanding a Handover Act of Thanks and a national apology for the phrase “the nurses will deal with that”.",
-      "Until then, the country's unofficial backbone will keep the bay moving, one lukewarm cup of tea at a time."
+      "The same survey has at last exposed the indoor chore crisis gripping British women. They are up to six times more likely than men to say that only they do the laundry and clean the bathroom, and 52 per cent say they are the ones doing the dusting. Twenty-seven per cent of men have all their clothes washed by their partner. For women, that figure is 1 per cent.",
+      "“He took the bins out once, in October, and still brings it up,” said Lorraine, 48, from Stockton. “I have done four loads, a bathroom and a sock that has no partner, and nobody’s called me a warrior.”",
+      "Researchers – and anyone who has ever turned a school jumper the right way out – will note that the jobs that reset themselves every day land on women, while the bins, heroically, go out once a week. Campaigners are demanding a Laundry Recognition Act and a national apology for the phrase “I’ll just leave these here, they’re not dirty dirty”.",
+      "Until then, the country’s unofficial wash-and-fold corps will keep moving, one inside-out school jumper at a time."
     ],
-    "pull_quote": "I have done five in a row, missed the kettle twice and still have the handover to write, and nobody's named a ward after me."
+    "pull_quote": "He took the bins out once, in October, and still brings it up."
   }
 }

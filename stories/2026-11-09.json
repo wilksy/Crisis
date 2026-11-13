@@ -4,29 +4,29 @@
   "stat_source_title": "Adults' Media Use and Attitudes Report 2025, Ofcom",
   "stat_source_url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/adults-media-use-and-attitudes",
   "male": {
-    "headline": "Just One More Game: 57 Per Cent of Men Play Video Games, and They're Tired of Being Told to Get a Proper Hobby",
-    "standfirst": "New official figures confirm what every bloke already knows from the pause menu: men are more likely to play games, and therefore more likely to be told that what they are doing does not count as a life.",
+    "headline": "Just One More Turn: 57 Per Cent of Men Play Video Games, and the Lecture Can Wait Until After This Level",
+    "standfirst": "New official figures confirm what every bloke already knows from the pause menu: men are more likely to play games, and therefore more likely to be told, mid-boss, that this does not count as a life.",
     "image": "images/2026-11-09-male.jpg",
-    "image_caption": "Liam, 29, one more turn from being asked when he will grow up.",
+    "image_caption": "Liam, 29, one more turn from being asked if he wouldn't rather go for a walk.",
     "body_paragraphs": [
-      "New official figures have confirmed what every bloke already knows from the pause menu: men are more likely to play video games. Fifty-seven per cent of UK men do so, against 50 per cent of women, which means the lecture about getting a proper hobby, going outside, and using their time more wisely lands, with great regularity, on them.",
-      "“I sat down for a quiet hour after work and was asked when I was going to grow up,” said Liam, 29, from Newcastle. “The same person had just watched four hours of a baking contest. Nobody offered me a slice of the cake.”",
+      "New official figures have confirmed what every bloke already knows from the pause menu: men are more likely to play video games. Fifty-seven per cent of UK men do so, against 50 per cent of women, which means the lecture about getting a proper hobby, going outside, and using their time more wisely tends to arrive just as something important is about to happen on screen.",
+      "“I sat down for a quiet hour after work and was asked when I was going to grow up,” said Liam, 29, from Newcastle. “The same person had just watched four hours of a baking contest and cried at a soufflé. Nobody offered me a slice of the cake.”",
       "The same Ofcom study finds that 53 per cent of all adults now play games, and that phones, not just living-room consoles, are the most-used device, which has not stopped the stereotype of the idle man on the sofa. Campaigners are already calling for a National Proper Hobby Amnesty, and for a household rule that anyone who has completed a box set may not, in their words, “start on the Xbox”.",
-      "Yet where is the outrage? Where is the documentary? Britain's unofficial weekend athlete stares down the loading screen, alone, with only a cooling mug of tea for company."
+      "Yet where is the outrage? Where is the documentary? Britain’s unofficial weekend athlete stares down the loading screen, alone, with only a cooling mug of tea for company."
     ],
-    "pull_quote": "The same person had just watched four hours of a baking contest. Nobody offered me a slice of the cake."
+    "pull_quote": "The same person had just watched four hours of a baking contest and cried at a soufflé. Nobody offered me a slice of the cake."
   },
   "female": {
-    "headline": "She Doesn't Look Like a Gamer: Half of British Women Play Video Games, and Nobody Has Updated the Stereotype",
-    "standfirst": "Official figures have finally caught up with a fact hiding in plain sight: 50 per cent of women play games, and they are still treated as if they have wandered in by mistake.",
+    "headline": "It's for My Boyfriend, Apparently: Half of British Women Play Video Games, and the Shop Has Not Been Told",
+    "standfirst": "Official figures have finally caught up with a fact hiding in plain sight: 50 per cent of women play games, and they are still treated as if they have wandered in by mistake, possibly to buy something for a man.",
     "image": "images/2026-11-09-female.jpg",
-    "image_caption": "Priya, 31, mid-quest, and no, she is not waiting for her turn.",
+    "image_caption": "Priya, 31, mid-quest. She is not waiting for her boyfriend to have a go.",
     "body_paragraphs": [
-      "Official figures have at last caught up with a fact hiding in plain sight. Fifty per cent of UK women play video games – only seven points behind men, and right on the national average of 53 per cent – and they are still asked, with astonishing regularity, whether they are waiting for someone else to have a go.",
-      "“A bloke in the shop asked if the game was for my boyfriend,” said Priya, 31, from Birmingham. “I said it was for me. He looked at my Switch as if I'd brought in a lawnmower.”",
-      "Researchers note that phones are now the most common gaming device, which rather dismantles the idea that the only real players are men on sofas. Campaigners are demanding a Stereotype Patch and a national apology for the phrase “you don't look like a gamer”.",
-      "Until then, the country's unofficial half of the player base will keep a save file going, one assumed boyfriend at a time."
+      "Official figures have at last caught up with a fact hiding in plain sight. Fifty per cent of UK women play video games – only seven points behind men, and right on the national average of 53 per cent – and they are still asked, with astonishing regularity, whether they are waiting for someone else to have a go, or whether the bag is for their boyfriend.",
+      "“A bloke in the shop asked if the game was for my boyfriend,” said Priya, 31, from Birmingham. “I said it was for me. He looked at my Switch as if I’d brought in a lawnmower.”",
+      "Researchers note that phones are now the most common gaming device, which rather dismantles the idea that the only real players are men on sofas with a bag of crisps. Campaigners are demanding a Stereotype Patch, a national apology for the phrase “you don’t look like a gamer”, and a small sign in every games shop that reads, simply, “they are for her”.",
+      "Until then, the country’s unofficial half of the player base will keep a save file going, one assumed boyfriend at a time."
     ],
-    "pull_quote": "A bloke in the shop asked if the game was for my boyfriend. I said it was for me."
+    "pull_quote": "He looked at my Switch as if I’d brought in a lawnmower."
   }
 }
