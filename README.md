@@ -41,6 +41,8 @@ Use the date of the edition as the filename, for example `stories/2026-11-14.jso
   "male": {
     "headline": "The male-angle headline",
     "standfirst": "A single-sentence introduction under the headline.",
+    "image": "images/2026-11-14-male.jpg",
+    "image_caption": "A short italic caption for the male-angle photograph.",
     "body_paragraphs": [
       "First paragraph.",
       "Second paragraph, often including the invented quote.",
@@ -52,6 +54,8 @@ Use the date of the edition as the filename, for example `stories/2026-11-14.jso
   "female": {
     "headline": "The female-angle headline",
     "standfirst": "A single-sentence introduction under the headline.",
+    "image": "images/2026-11-14-female.jpg",
+    "image_caption": "A short italic caption for the female-angle photograph.",
     "body_paragraphs": [
       "First paragraph.",
       "Second paragraph, often including the invented quote.",
@@ -63,7 +67,14 @@ Use the date of the edition as the filename, for example `stories/2026-11-14.jso
 }
 ```
 
-`date` must match the filename. `stat_source_url` must point to the real source of the figures. Invented people and quotes belong only in `body_paragraphs` and `pull_quote`, never in `stat_summary`.
+`date` must match the filename. `stat_source_url` must point to the real source of the figures. Invented people and quotes belong only in `body_paragraphs`, `pull_quote` and `image_caption`, never in `stat_summary`.
+
+`image` and `image_caption` are optional. If `image` is omitted, that angle is shown without a photograph. If you include a picture, add both a male and a female image and put the files here:
+
+- `images/YYYY-MM-DD-male.jpg`
+- `images/YYYY-MM-DD-female.jpg`
+
+Use a relative path in the JSON, for example `images/2026-11-14-male.jpg`. Keep the files around 200KB (a 1400-pixel-wide JPEG is about right). The site will show the caption in italic under the photo, plus the credit “Illustrative image (AI-generated)”. The photograph swaps when the reader toggles the angle.
 
 ### 2. Add a line to the top of `stories/index.json`
 
@@ -84,7 +95,7 @@ This file is an array of every edition, **newest first**. Insert a new object at
 ]
 ```
 
-The two headlines should match the ones in that day’s story file. Once this is pushed to `main`, the front page will show the new edition automatically. No other files need to change.
+The two headlines should match the ones in that day’s story file. Once this is pushed to `main`, the front page will show the new edition automatically. If the story has photographs, commit the files in `images/` as well.
 
 ## File list
 
@@ -94,5 +105,6 @@ The two headlines should match the ones in that day’s story file. Once this is
 - `js/app.js` — loads stories, handles the toggle, archive and dates
 - `stories/index.json` — catalogue of editions, newest first
 - `stories/YYYY-MM-DD.json` — one file per edition
+- `images/YYYY-MM-DD-male.jpg` and `images/YYYY-MM-DD-female.jpg` — optional lead photographs for each angle
 - `favicon.svg` — monogram
 - `.nojekyll` — required for GitHub Pages

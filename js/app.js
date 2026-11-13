@@ -109,6 +109,26 @@
     standfirst.textContent = copy.standfirst;
     dateline.textContent = formatLongDate(story.date);
 
+    var figure = document.getElementById("lead-photo");
+    var img = document.getElementById("lead-image");
+    var caption = document.getElementById("lead-caption");
+    if (figure && img && caption) {
+      if (copy.image) {
+        var src = copy.image;
+        if (img.getAttribute("src") !== src) {
+          img.src = src;
+        }
+        img.alt = copy.image_caption || copy.headline || "";
+        caption.textContent = copy.image_caption || "";
+        figure.classList.remove("hidden");
+      } else {
+        img.removeAttribute("src");
+        img.alt = "";
+        caption.textContent = "";
+        figure.classList.add("hidden");
+      }
+    }
+
     if (issue) {
       issue.textContent = "Vol. I, No. " + issueNumber(index, story.date);
     }

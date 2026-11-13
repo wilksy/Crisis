@@ -100,7 +100,7 @@ a:hover {
   align-items: baseline;
   gap: 1rem;
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.72rem;
+  font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -131,7 +131,7 @@ a:hover {
   align-items: center;
   gap: 1rem;
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.7rem;
+  font-size: 0.78rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
   font-weight: 600;
@@ -141,7 +141,7 @@ a:hover {
 .brand-kicker {
   display: block;
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.78rem;
+  font-size: 0.88rem;
   font-weight: 700;
   letter-spacing: 0.46em;
   text-indent: 0.46em;
@@ -195,7 +195,7 @@ a:hover {
   padding-top: 0.45rem;
   border-top: 1px solid var(--rule);
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   font-weight: 600;
@@ -222,7 +222,7 @@ a:hover {
   display: flex;
   gap: 1.25rem;
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.82rem;
+  font-size: 0.95rem;
   font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -251,7 +251,7 @@ a:hover {
 
 .angle-label {
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -295,11 +295,11 @@ a:hover {
   background: transparent;
   color: var(--ink);
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.82rem;
+  font-size: 0.95rem;
   font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  padding: 0.55rem 1rem;
+  padding: 0.6rem 1rem;
   cursor: pointer;
   border-radius: 999px;
   transition: color 0.25s ease;
@@ -314,7 +314,7 @@ a:hover {
 .kicker {
   margin: 0 0 0.45rem;
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.78rem;
+  font-size: 0.88rem;
   font-weight: 700;
   letter-spacing: 0.2em;
   text-transform: uppercase;
@@ -336,14 +336,14 @@ a:hover {
   margin: 0 0 0.85rem;
   font-family: "Playfair Display", "Times New Roman", Times, serif;
   font-weight: 900;
-  font-size: clamp(1.85rem, 4.4vw, 3.35rem);
+  font-size: clamp(2.15rem, 5vw, 3.75rem);
   line-height: 1.08;
   letter-spacing: -0.015em;
 }
 
 .standfirst {
   margin: 0 0 0.85rem;
-  font-size: clamp(1.05rem, 2vw, 1.28rem);
+  font-size: clamp(1.2rem, 2.2vw, 1.5rem);
   line-height: 1.45;
   font-style: italic;
   color: var(--ink-soft);
@@ -353,10 +353,46 @@ a:hover {
 .byline {
   margin: 0 0 1.25rem;
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.86rem;
+  font-size: 1rem;
   color: var(--ink-soft);
   padding-bottom: 1rem;
   border-bottom: 1px solid rgba(20, 20, 20, 0.25);
+}
+
+
+/* —— Lead photo —— */
+
+.lead-photo {
+  margin: 0 0 1.35rem;
+  padding: 0;
+}
+
+.lead-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid rgba(20, 20, 20, 0.28);
+}
+
+.lead-photo figcaption {
+  margin: 0.5rem 0 0;
+  line-height: 1.4;
+  color: var(--ink-soft);
+}
+
+.lead-photo .caption {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 1.05rem;
+}
+
+.lead-photo .credit {
+  display: block;
+  margin-top: 0.2rem;
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.82rem;
+  font-style: normal;
+  letter-spacing: 0.02em;
 }
 
 .story-grid {
@@ -368,13 +404,13 @@ a:hover {
 
 @media (min-width: 840px) {
   .story-grid {
-    grid-template-columns: minmax(0, 1fr) 16.5rem;
+    grid-template-columns: minmax(0, 1fr) 19rem;
   }
 }
 
 .story-body {
-  font-size: 1.02rem;
-  line-height: 1.68;
+  font-size: 1.3125rem;
+  line-height: 1.7;
   text-align: justify;
   hyphens: auto;
   -webkit-hyphens: auto;
@@ -396,7 +432,7 @@ a:hover {
   font-family: "Playfair Display", "Times New Roman", Times, serif;
   font-weight: 900;
   float: left;
-  font-size: 3.6rem;
+  font-size: 4.15rem;
   line-height: 0.75;
   padding: 0.12em 0.1em 0 0;
   color: var(--accent);
@@ -409,7 +445,7 @@ a:hover {
   border-top: 3px solid var(--accent);
   border-bottom: 3px solid var(--accent);
   font-family: "Playfair Display", "Times New Roman", Times, serif;
-  font-size: clamp(1.35rem, 2.6vw, 1.85rem);
+  font-size: clamp(1.5rem, 2.8vw, 2.1rem);
   font-style: italic;
   font-weight: 700;
   line-height: 1.25;
@@ -446,7 +482,7 @@ a:hover {
 .stat-box h2 {
   margin: 0 0 0.65rem;
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.75rem;
+  font-size: 0.82rem;
   font-weight: 700;
   letter-spacing: 0.2em;
   text-transform: uppercase;
@@ -456,7 +492,7 @@ a:hover {
 .stat-box h2 span {
   display: block;
   font-family: "Playfair Display", "Times New Roman", Times, serif;
-  font-size: 1.65rem;
+  font-size: 1.9rem;
   letter-spacing: 0;
   text-transform: none;
   font-weight: 900;
@@ -467,7 +503,7 @@ a:hover {
 
 .stat-summary {
   margin: 0 0 0.9rem;
-  font-size: 0.88rem;
+  font-size: 1.05rem;
   line-height: 1.55;
   text-align: left;
   hyphens: auto;
@@ -478,7 +514,7 @@ a:hover {
   padding-top: 0.75rem;
   border-top: 1px solid rgba(20, 20, 20, 0.2);
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.78rem;
+  font-size: 0.92rem;
   line-height: 1.45;
 }
 
@@ -487,7 +523,7 @@ a:hover {
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  font-size: 0.68rem;
+  font-size: 0.75rem;
   margin-bottom: 0.2rem;
   color: var(--ink-soft);
 }
@@ -503,7 +539,7 @@ a:hover {
 .archive h2 {
   margin: 0 0 0.35rem;
   font-family: "Playfair Display", "Times New Roman", Times, serif;
-  font-size: 1.8rem;
+  font-size: 2.1rem;
   font-weight: 900;
 }
 
@@ -511,7 +547,7 @@ a:hover {
   margin: 0 0 1.15rem;
   color: var(--ink-soft);
   font-style: italic;
-  font-size: 0.95rem;
+  font-size: 1.15rem;
 }
 
 .archive-list {
@@ -541,7 +577,7 @@ a:hover {
 
 .archive-date {
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.78rem;
+  font-size: 0.88rem;
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -558,14 +594,14 @@ a:hover {
 
 .archive-headlines strong {
   font-family: "Playfair Display", "Times New Roman", Times, serif;
-  font-size: 1.12rem;
+  font-size: 1.3rem;
   font-weight: 700;
   line-height: 1.25;
 }
 
 .archive-headlines .which {
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.68rem;
+  font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -589,7 +625,7 @@ a:hover {
 .back-latest {
   margin: 0 0 1.1rem;
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 
 /* —— States —— */
@@ -629,7 +665,7 @@ a:hover {
   padding-top: 1.1rem;
   border-top: 3px solid var(--rule);
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.82rem;
+  font-size: 0.95rem;
   line-height: 1.55;
   color: var(--ink-soft);
 }
@@ -706,8 +742,18 @@ a:hover {
     width: 100%;
   }
 
+
   .story-body {
     text-align: left;
+    font-size: 1.1875rem;
+  }
+
+  .lead-photo .caption {
+    font-size: 0.98rem;
+  }
+
+  .standfirst {
+    font-size: 1.2rem;
   }
 
   .archive-list a {
