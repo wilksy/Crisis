@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-14",
+  "stat_summary": "In a controlled experiment with 542 students in Berlin, each 1°C rise in room temperature was linked to women answering 1.76% more maths questions correctly and scoring 1.03% higher on a word task, while men answered 0.63% fewer maths questions correctly and scored 0.6% lower on the word task. The women's improvement was statistically significant; the men's decline was small and not statistically significant.",
+  "stat_source_title": "Battle for the thermostat: Gender and the effect of temperature on cognitive performance, Chang and Kajackaite, PLOS ONE (2019)",
+  "stat_source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216362",
+  "male": {
+    "headline": "Too Hot to Add Up: Men's Maths Melts as the Heating Goes Up, and Nobody Will Open a Window",
+    "standfirst": "Scientists have finally proved what every bloke wedged next to the office radiator already knew: warmth is quietly cooking the male brain, and he is not allowed to touch the dial.",
+    "image": "images/2026-11-14-male.jpg",
+    "image_caption": "Darren, 52, and the radiator he has sat beside since 2009.",
+    "body_paragraphs": [
+      "A landmark study of 542 people has confirmed what every man pinned against an office radiator in November has long suspected: the heat is coming for his brain. For every one-degree rise in room temperature, men answered 0.63 per cent fewer maths questions correctly and did 0.6 per cent worse on a word puzzle. Men, the researchers found, simply think better in the cold.",
+      "“By half eleven it's 24 degrees in here and I can't carry the one,” said Darren, 52, an accounts assistant from Wolverhampton. “I've been told I'm 'having a moment'. I'm not having a moment. I'm having a peer-reviewed decline.”",
+      "Scientists describe the male drop as small and “statistically insignificant”, which is exactly what people always say about men's feelings. Darren's colleagues have responded to the science by bringing in a second fan heater and pointing it at his ankles.",
+      "Campaigners are demanding a legal Right to Open a Window, a national ban on the phrase “it's not even warm”, and a water cooler within crawling distance of every male desk. Until then, Britain's overheated men will keep doing long division in a puddle of their own shirt."
+    ],
+    "pull_quote": "I'm not having a moment. I'm having a peer-reviewed decline."
+  },
+  "female": {
+    "headline": "Cold Hands, Wasted Brains: Women Get 1.76 Per Cent Better at Maths With Every Degree, and Gary Has Locked the Thermostat",
+    "standfirst": "A study has found that women's brains run better in the warm, which means Britain's freezing offices have been throwing away female brainpower one goosebump at a time.",
+    "image": "images/2026-11-14-female.jpg",
+    "image_caption": "Nicola, 38, mid-payroll, using her tea as a heating system.",
+    "body_paragraphs": [
+      "Scientists have exposed the great British office scandal hiding in plain sight under a fleece blanket. In a controlled experiment with 542 participants, every one-degree rise in room temperature was linked to women getting 1.76 per cent more maths questions right and doing 1.03 per cent better on a word task. Warmer women also attempted more questions, without making more mistakes.",
+      "“I'm doing payroll for 300 people in fingerless gloves and a bobble hat,” said Nicola, 38, from Stockport, cradling her fourth tea of the morning purely for its heat output. “I could be smashing this if Gary hadn't put a padlock on the thermostat. Gary sits by the radiator. Gary is the radiator.”",
+      "The researchers themselves concluded that mixed offices should set the thermostat “significantly higher than current standards”. Crucially, the boost for women was statistically significant while the drop for men was not, a detail Nicola has had laminated and taped to the thermostat cage.",
+      "Campaigners are calling for a Thermal Equality Act, the removal of every plastic thermostat cage in the land, and hot-water bottles to be reclassified as essential office equipment. Until then, Britain's chilliest workforce will keep crunching the numbers, one numb finger at a time."
+    ],
+    "pull_quote": "Gary sits by the radiator. Gary is the radiator."
+  }
+}
