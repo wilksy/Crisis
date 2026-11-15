@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-15",
+  "stat_summary": "In Great Britain in 2025 to 2026, women passed 47.2% of car theory tests against 43.0% for men, but men passed 50.8% of practical driving tests against 49.1% for women.",
+  "stat_source_title": "Driving test and theory test data: cars (tables DRT111B and DRT121B, 2025 to 2026), Driver and Vehicle Standards Agency, 2026",
+  "stat_source_url": "https://www.gov.uk/government/statistical-data-sets/car-driving-test-data-by-test-centre",
+  "male": {
+    "headline": "Can't Name the Sign, Can Park the Van: Men Pass 50.8 Per Cent of Driving Tests, and the Quiz Is Holding Them Back",
+    "standfirst": "Official figures show British men are better at the bit of driving that involves an actual car, yet the nation insists on judging them by a multiple-choice quiz about traffic cones.",
+    "image": "images/2026-11-15-male.jpg",
+    "image_caption": "Lee, 18, between a wheelie bin and a Transit, with four inches to spare and no idea what a blue circle means.",
+    "body_paragraphs": [
+      "Government figures have finally confirmed what every bloke who has ever reversed into a space outside Greggs already knew: men are better at driving than at talking about driving. Men passed 50.8 per cent of practical driving tests last year, comfortably ahead of women's 49.1 per cent – that is, on the one test where there is an actual car involved.",
+      "And yet the same men are being turned away at the door by a computer quiz. Just 43.0 per cent of men's theory tests ended in a pass, against 47.2 per cent for women, meaning thousands of naturally gifted drivers are stuck on the bus because they could not say, under exam conditions, what a picture of a goose means.",
+      "“I can't tell you the stopping distance at 70,” said Lee, 18, from Doncaster, who has now failed his theory three times. “But I can get a Corsa into a gap the size of a wheelie bin, first go, one hand, while eating a sausage roll. Nobody's ever put that on a multiple-choice question.”",
+      "Experts point out that the practical test is the closest thing Britain has to a measure of real-world driving, and on that measure, men win. The theory test, by contrast, involves sitting perfectly still in a beige room clicking on videos of a cyclist who has not yet appeared. Critics say this is not driving. It is homework with a steering-wheel logo.",
+      "Campaigners are now demanding a Practical First amendment, under which any man who can parallel park a Transit outside a busy chippy is excused the hazard perception clips entirely, and a national helpline staffed by dads who will explain any road sign “roughly”.",
+      "Until then, Britain's natural drivers will continue to wait at bus stops, watching worse-parked cars go by, knowing in their hearts exactly where that one should have gone."
+    ],
+    "pull_quote": "I can get a Corsa into a gap the size of a wheelie bin, first go, one hand, while eating a sausage roll."
+  },
+  "female": {
+    "headline": "She Read the Highway Code, Actually: Women Pass 47.2 Per Cent of Theory Tests, and Still Get Called a Nervous Driver",
+    "standfirst": "Official figures reveal Britain's women are the only people on the road who did the reading, and the reward is a lifetime of being told to “just go, you're fine”.",
+    "image": "images/2026-11-15-female.jpg",
+    "image_caption": "Hannah, 17, on the number 48, chapter four, colour-coded.",
+    "body_paragraphs": [
+      "New government figures have exposed a scandal hiding in plain sight on Britain's roads: women are the only ones who did the revision. Women passed 47.2 per cent of car theory tests last year, against a dismal 43.0 per cent for men – a gap of more than four points on the bit of the test where you have to actually know the rules.",
+      "“I know the stopping distance at 70 is 96 metres,” said Hannah, 17, from Kettering, who revised with 312 hand-written flashcards on the top deck of the bus. “My brother thinks it's ‘about a football pitch, roughly, depending’. He's now explaining roundabouts to me.”",
+      "On the practical test, men are ahead by just 1.7 points, 50.8 per cent to 49.1 per cent. Analysts note this is less than half the size of women's lead on the theory, meaning women arrive at their driving test knowing more than the men and drive almost exactly as well, yet somehow it is women who are described as “a bit hesitant at junctions”.",
+      "Researchers suggest that a woman who pauses at a give-way line is not nervous; she simply knows what the give-way line is for. The national habit of beeping at her about it has been described as “deeply unfair” and “also illegal, if you'd read section 112”.",
+      "Campaigners are demanding a Read It First Act, under which any man must correctly identify three road signs before he is allowed to touch the radio, and the immediate retirement of the phrase “you're overthinking it”.",
+      "Until then, Britain's best-informed drivers will continue to signal, check their mirrors, and quietly know that they were right."
+    ],
+    "pull_quote": "My brother thinks it's about a football pitch, roughly, depending. He's now explaining roundabouts to me."
+  }
+}
