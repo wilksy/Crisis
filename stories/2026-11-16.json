@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-16",
+  "stat_summary": "In a peer-reviewed survey of 1,245 adults in Denizli, Turkey, 29.5% of men were habitual snorers compared with 8.9% of women, and male sex was an independent risk factor. Snoring was bad enough to force a roommate to leave the room for 9.4% of men and 2.1% of women, yet only 3.4% of men and 1.1% of women were willing to seek medical attention.",
+  "stat_source_title": "Kara CO et al., 'The prevalence of snoring in adult population', Kulak Burun Boğaz Ihtisas Dergisi, 2005 (PubMed 16227718)",
+  "stat_source_url": "https://pubmed.ncbi.nlm.nih.gov/16227718/",
+  "male": {
+    "headline": "Born to Rumble: Men Are More Than Three Times as Likely to Snore, and Science Says It's Not His Fault",
+    "standfirst": "Researchers found 29.5 per cent of men snore habitually against 8.9 per cent of women, and listed being male as a risk factor all by itself. So why is he the one getting elbowed at 3am?",
+    "image": "images/2026-11-16-male.jpg",
+    "image_caption": "Darren Pike, 47, pictured beside the empty half of the bed and a box of tissues he describes as 'evidence of nothing'.",
+    "body_paragraphs": [
+      "Every night across Britain, millions of men lie down, close their eyes and are immediately accused of something they have no memory of doing. Now science has finally taken their side.",
+      "A peer-reviewed study of 1,245 adults found men were more than three times as likely as women to snore habitually: 29.5 per cent against 8.9 per cent. Crucially, after crunching the numbers, researchers named \"male sex\" as a risk factor in its own right. Not his manners. Not his attitude. His chromosomes.",
+      "\"I have never once heard myself snore,\" said Darren Pike, 47, a forklift driver from Stockport. \"Not once. I'm being convicted every night on the testimony of a single witness who also happens to want the whole duvet. In any other court that would be thrown out by lunchtime.\"",
+      "Yes, the same study also mentions alcohol, smoking and weight. Darren says those are \"a separate inquiry\" and will not be taking questions on the four pints of Carling. The point stands: a man can give up the lager, but he cannot give up being a man.",
+      "Campaigners from Snorers Are People Too are demanding that all snoring allegations be backed by audio evidence, played back at a reasonable volume after 9am, and that every headboard in the country carry a small brass plaque reading \"It's Biology, Sandra\"."
+    ],
+    "pull_quote": "A man can give up the lager, but he cannot give up being a man."
+  },
+  "female": {
+    "headline": "Evicted by the Foghorn: Snoring Drives the Roommate Out for 9.4 Per Cent of Men, and Guess Who's in the Box Room",
+    "standfirst": "Men are more than three times as likely to snore habitually, one in 11 snores loudly enough to clear the room, and the person clearing it is rarely him.",
+    "image": "images/2026-11-16-female.jpg",
+    "image_caption": "Bev Halloran, 52, in her eleventh winter of exile, wearing the one earplug that hasn't gone down the side of the bed.",
+    "body_paragraphs": [
+      "It starts as a gentle rumble. By 1am it sounds like someone reversing a cement mixer up the stairs. By 2am, a woman is standing on the landing with a pillow under her arm, wondering which spare room has the fewest Christmas decorations in it.",
+      "The study's figures are stark. Snoring was so severe that it forced a roommate to leave the room for 9.4 per cent of men, against 2.1 per cent of women. That is not a snoring problem. That is a housing problem, and it is being solved nightly by women on single mattresses.",
+      "\"I've slept in the box room next to the tinsel for eleven years,\" said Bev Halloran, 52, a school receptionist from Swindon. \"I know every bauble personally. He says he slept fine. Of course he slept fine. He was the only one who did.\"",
+      "Worse, while 29.5 per cent of men snore habitually, just 3.4 per cent said they'd see a doctor about it. The remainder appear to have concluded that the problem is being handled, which it is, by Bev, the tinsel, and a £2.99 tube of foam earplugs from Boots.",
+      "Campaigners at Sleep Justice Now want a statutory Saturday lie-in for anyone who has been displaced by a partner's nose, VAT removed from earplugs, and every snorer legally required to make the morning tea until he books a GP appointment."
+    ],
+    "pull_quote": "He says he slept fine. Of course he slept fine. He was the only one who did."
+  }
+}
