@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-17",
+  "stat_summary": "In England in 2024, males made an average of 23 cycling trips and cycled 87 miles each, while females made 8 cycling trips and cycled 19 miles, according to the Department for Transport's National Travel Survey. Females of all ages made more walking trips than males, and people aged 16 to 39 were more likely to say having children, other passengers or too much to carry stopped them cycling, or cycling more.",
+  "stat_source_title": "Department for Transport, 'NTS 2024: Active travel', National Travel Survey 2024 (GOV.UK)",
+  "stat_source_url": "https://www.gov.uk/government/statistics/national-travel-survey-2024/nts-2024-active-travel",
+  "male": {
+    "headline": "Pedal Martyrs: Men Cycle 87 Miles a Year to Keep Your Road Clear, and All They Get Is a Beep",
+    "standfirst": "Official figures show men make nearly three times as many bike trips as women and cycle more than four times as far, so every morning a damp man in Lycra is quietly removing one car from in front of you. You're welcome.",
+    "image": "images/2026-11-17-male.jpg",
+    "image_caption": "Keith Bramley, 51, at the junction where he has personally been 'one less car' 1,140 times, according to a spreadsheet nobody asked for.",
+    "body_paragraphs": [
+      "At 7.42 every weekday morning, a man in a fluorescent jacket that has seen things wobbles out of a cul-de-sac in Basingstoke and spends the next 25 minutes being shouted at by people whose journeys he is actively making shorter.",
+      "The Department for Transport's own figures confirm what Britain's bike-shed men have long suspected. In 2024 the average male made 23 cycling trips and pedalled 87 miles, against 8 trips and 19 miles for the average female. Every one of those miles is a mile not driven, a parking space not taken, a car not sitting in front of you at the lights. Men are, quite literally, carrying the nation's congestion on their thighs.",
+      "\"I am the reason you got that space outside Greggs,\" said Keith Bramley, 51, a quantity surveyor. \"Nobody's ever said thank you. A man in an Audi once called me a 'Lycra lunatic' and then drove into the gap I'd just left. That gap was a gift, Trevor. I hope it brought you joy.\"",
+      "Keith estimates he has saved enough petrol since 2019 to drive a Vauxhall Corsa to Aberdeen and back, a figure he calculated himself, laminated, and keeps in his pannier alongside a spare inner tube and a cereal bar that is now load-bearing.",
+      "Campaigners from Men Who Pedal are demanding a small round of applause at every set of lights, a free bacon roll for any man arriving at work with visibly wet knees, and a national rule that anyone who has said \"road tax\" out of a car window must first cycle up Box Hill and explain it at the top."
+    ],
+    "pull_quote": "That gap was a gift, Trevor. I hope it brought you joy."
+  },
+  "female": {
+    "headline": "Where Exactly Does the Child Go? Women Cycle Just 19 Miles a Year, and the Bike Lane Ended at a Van",
+    "standfirst": "Men make nearly three times as many bike trips as women, and the government's own survey says the usual reasons for not cycling are children, passengers and too much to carry. Funny, that.",
+    "image": "images/2026-11-17-female.jpg",
+    "image_caption": "Joanne Pryce, 38, with two bags of shopping, one Kian, and a bicycle that has not moved since the second lockdown.",
+    "body_paragraphs": [
+      "Britain has been told for twenty years that women simply need to \"get on their bikes\". Nobody, at any point, has explained where on the bike the toddler, the PE kit, the birthday present for a party in Kettering and four pints of semi-skimmed are supposed to go.",
+      "The National Travel Survey found the average woman made just 8 cycling trips in 2024 and covered 19 miles, against 23 trips and 87 miles for men. The same release notes that people aged 16 to 39 are more likely to say they don't cycle, or don't cycle more, because of children, other passengers or having too much to carry. Women, meanwhile, made more walking trips than men at every age. They are not avoiding exercise. They are carrying the shopping home on foot while a man glides past with a single banana in a rucksack.",
+      "\"I've got a bike. It's lovely. It's against the wall with a flat tyre and a spider in the basket who pays no rent,\" said Joanne Pryce, 38, a pharmacy dispenser from Northampton. \"The council painted a green bike lane outside the school. It's eleven metres long and it ends at a Transit van. I timed it once. You're in it for about four seconds before you're back in the traffic with a seven-year-old screaming about his recorder.\"",
+      "Experts point out that a cycle route designed for one man going from his house to his office in a straight line is of limited use to someone doing the school, the chemist, the big Tesco, her mum's and the school again, in that order, before 9.15.",
+      "Campaigners at Wheels For The Rest Of Us are demanding bike lanes that go somewhere, a cargo bike on the NHS for anyone with more than one child and a weekly shop, and a law requiring every council planner to cycle their own route with a Year 2 pupil, a birthday cake and a bag of potatoes before it opens."
+    ],
+    "pull_quote": "It's eleven metres long and it ends at a Transit van."
+  }
+}
