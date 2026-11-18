@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-18",
+  "stat_summary": "In England in 2024, the mean height of men was 175.8cm and of women 162.1cm, a gap of 13.7cm (about five and a half inches), based on interviewer measurements in the Health Survey for England. Since 1993, men's average height has risen from 174.4cm and women's from 161.1cm.",
+  "stat_source_title": "Health Survey for England 2024: Adults' overweight and obesity, NHS England Digital",
+  "stat_source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2024/adults-overweight-and-obesity",
+  "male": {
+    "headline": "Top Shelf Conscripts: Men Stand 13.7cm Taller, and Have Been Fetching the Big Platter Ever Since",
+    "standfirst": "Official NHS figures confirm the average man is nearly five and a half inches taller than the average woman, which in practice makes him Britain's unpaid stepladder, and nobody has ever asked if he minds.",
+    "body_paragraphs": [
+      "New figures from the Health Survey for England have confirmed what every tall bloke already knew from the inside of a loft hatch: men are holding up the nation's top shelves. The average man now measures 175.8cm, against 162.1cm for the average woman – a 13.7cm gap that has quietly turned millions of husbands, sons and passing strangers in Sainsbury's into an on-call reaching service.",
+      "“Christmas Day, I'm summoned eleven times for the gravy boat,” said Darren, 52, from Kettering. “Then the big platter. Then the good glasses. Then I stand up too fast under the beam in the Red Lion and they all laugh. Nobody's ever fetched anything for me. Nobody's even fetched me a plaster.”",
+      "And the extra height brings no extra legroom. The same man who rescues the colander from on top of the fridge is then expected to fold himself into a bus seat apparently designed for a mid-sized child, knees wedged against the seat in front like a deckchair in a lift.",
+      "Campaigners are demanding a statutory Reach Allowance of 20p per item retrieved, foam padding on every Tudor beam in Britain and a national register of low loft hatches. They also want the phrase “you're tall, can you just…” legally recognised as a job offer, with a contract and a pension.",
+      "Until then, Britain's silent stepladders will keep stooping through doorways, wincing at beams and handing down the gravy boat: asked for everything, thanked for nothing."
+    ],
+    "pull_quote": "Nobody's ever fetched anything for me. Nobody's even fetched me a plaster."
+  },
+  "female": {
+    "headline": "Built for Darren's Elbow: Women Are 13.7cm Shorter, and the Good Mugs Are on the Top Shelf Again",
+    "standfirst": "Official NHS figures show the average woman stands at 162.1cm, which would be fine if Britain's kitchens, supermarkets and bus handrails hadn't apparently been fitted by and for a man of 5ft 9in.",
+    "body_paragraphs": [
+      "Official figures have at last exposed the vertical crisis gripping British women. The average woman measures 162.1cm, a full 13.7cm shorter than the average man – and yet the colander, the decent mugs and the last jar of pesto in the Co-op all continue to live at a height that assumes she is somebody else.",
+      "“I've got a degree and a mortgage and I still have to kneel on the worktop like a cat to get the Pyrex down,” said Shona, 39, also from Kettering. “Or I wait for Darren to wander in so he can do it with one finger and look pleased with himself.”",
+      "The choice facing millions is stark: climb, or ask. Climbing means a wobbly kitchen chair and a trip to A&E waiting to happen. Asking means owing a tall person a favour, and tall people, frankly, remember. Even the bus offers no refuge, with the overhead rail pitched for the people who need it least, leaving women to dangle from it like a bat.",
+      "Worse, the gap is growing. Since 1993 men have gained 1.4cm on average while women have managed roughly 1cm, meaning the top shelf is effectively drifting away at the speed of a glacier.",
+      "Campaigners are demanding a Shelf Height Act, a free step stool at the end of every supermarket aisle and a rule that all kitchen cupboards be fitted by someone under 5ft 4in. Until then, Britain's women will keep climbing, one worktop at a time, while the good mugs look down on them."
+    ],
+    "pull_quote": "I still have to kneel on the worktop like a cat to get the Pyrex down."
+  }
+}
