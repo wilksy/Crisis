@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-19",
+  "stat_summary": "A 2014 study published in PLOS ONE counted the cells in the olfactory bulb, the brain's smell centre, in 18 people aged 55 to 94 (7 men and 11 women). Women's bulbs held 6.9 million neurons on average against 3.5 million in men, roughly twice as many, and 16.2 million cells in total against 9.2 million, even though the bulbs weighed about the same.",
+  "stat_source_title": "Oliveira-Pinto et al. (2014), Sexual Dimorphism in the Human Olfactory Bulb: Females Have More Neurons and Glial Cells than Males, PLOS ONE",
+  "stat_source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0111733",
+  "male": {
+    "headline": "Not Lazy, Just Under-Nosed: Men Have Half the Smell Neurons, and Have Been Wrongly Blamed for the Bin Since Records Began",
+    "standfirst": "Scientists have found the average man is working with 3.5 million smell neurons to a woman's 6.9 million, which means the overflowing bin was never a character flaw, it was a disability, and somebody owes Keith an apology.",
+    "body_paragraphs": [
+      "For decades, British men have stood accused of ignoring the bin, the gym bag and the milk that turned on Tuesday. Now science has cleared their names. A study in the journal PLOS ONE found that women's olfactory bulbs contain around 6.9 million neurons, while men's contain just 3.5 million – roughly half the equipment for the same job.",
+      "“Fourteen years I've been told I 'must be able to smell that',” said Keith, 48, from Swindon, holding a carton of semi-skimmed at arm's length out of habit rather than need. “I can't. I've never been able to. I sniffed this milk, it smelled of milk, I put it in my tea. Turns out it was yoghurt. That's not negligence. That's neurology.”",
+      "Experts point out that you cannot be blamed for failing to detect what your nose is not physically staffed to detect. Nobody shouts at a dog for not doing long division. Yet men across the country continue to be summoned into kitchens to account for smells they are fundamentally unable to witness, like a juror asked to rule on a film he wasn't shown.",
+      "Campaigners are demanding the immediate recognition of Bin Blindness as a protected condition, a national amnesty for all historic gym-bag offences and a rule that any accusation beginning “Can you not smell that?” must be accompanied by written evidence and a second opinion from the dog.",
+      "Until then, Britain's under-nosed men will carry on as they always have: calm, untroubled and standing directly next to the problem."
+    ],
+    "pull_quote": "I sniffed this milk, it smelled of milk. That's not negligence. That's neurology.",
+    "image": "images/2026-11-19-male.jpg",
+    "image_caption": "Keith, 48, Swindon, conducts a full investigation of the milk and finds no case to answer."
+  },
+  "female": {
+    "headline": "Britain's Unpaid Smoke Alarm: Women Have Twice the Smell Neurons, and Have Been Sniffing the Tupperware for Everyone Ever Since",
+    "standfirst": "Women's smell centres pack 6.9 million neurons to men's 3.5 million, which sounds like a superpower until you realise it simply means she is the one who has to open the mystery container at the back of the fridge.",
+    "body_paragraphs": [
+      "It has long been the nation's least glamorous job: sniffing the chicken, checking the milk and locating the source of the smell in the hallway. Now scientists have finally explained who has been doing it. Research published in PLOS ONE found that women's olfactory bulbs hold around 6.9 million neurons on average, roughly twice the 3.5 million found in men's.",
+      "“I can smell a gym bag through two closed doors and a fire door,” said Julie, 43, from Swindon, lifting the lid on a Tupperware of what may once have been chilli. “He can't smell it standing on it. So who do you think gets the job? Every single night I'm the household's quality control, smoke detector and sell-by date, all for nothing.”",
+      "And there is no off switch. Twice the neurons means twice the bins, twice the drains and twice the moment a teenager walks past who has discovered body spray. While men drift serenely through a fog of last week's bolognese, women are left to process every molecule of it, with no overtime, no gloves and, on the evidence so far, no thanks.",
+      "Campaigners are demanding an official Sniffing Allowance paid per container opened, clothes pegs on free prescription and a law that whoever cooked the fish must also be the one to deal with the fish.",
+      "Until then, Britain's women will keep doing the nation's dirtiest detective work, one lifted lid at a time."
+    ],
+    "pull_quote": "He can't smell it standing on it. So who do you think gets the job?",
+    "image": "images/2026-11-19-female.jpg",
+    "image_caption": "Julie, 43, also Swindon, opens the container at the back of the fridge so the rest of the household doesn't have to."
+  }
+}
