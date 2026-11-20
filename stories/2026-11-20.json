@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-20",
+  "stat_summary": "As a guide, the NHS says an average man needs 2,500kcal a day to maintain his weight, while an average woman needs 2,000kcal – a gap of 500 calories, or 25 per cent more for men. Individual needs vary with age, weight, height and activity.",
+  "stat_source_title": "Understanding calories, NHS (page reviewed April 2023)",
+  "stat_source_url": "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/understanding-calories/",
+  "male": {
+    "headline": "The Big Half Scandal: Men Need 500 More Calories a Day, and Are Still Being Made to Split the Nachos Fifty-Fifty",
+    "standfirst": "The NHS has confirmed that the average man runs on a quarter more fuel than the average woman, yet Britain's dinner tables continue to divide every pizza with the cold precision of a divorce lawyer.",
+    "body_paragraphs": [
+      "It is official, and it is on the NHS website: the average man needs 2,500 calories a day, against 2,000 for the average woman. That is 25 per cent more fuel. And yet, every Friday night, in kitchens up and down the land, the large Hawaiian is still being cut straight down the middle as if the two people eating it were identical twins.",
+      "“We split a twelve-inch down the middle. Down the middle,” said Dean, 38, a forklift instructor from Kettering. “I was sat in the car eating an emergency Twix by quarter to nine. I keep a multipack in the glovebox now, like a paramedic.”",
+      "Experts in sitting next to men at buffets point out that the 50/50 split is not equality at all. If one diner needs 2,500 calories and the other needs 2,000, halving everything leaves one of them perpetually peckish and the other with a spare crust. Over a year, the gap adds up to 182,500 calories – a figure Dean described as “basically a whole Christmas, stolen”.",
+      "The sharing platter has been singled out as the worst offender. Men report being handed exactly half the nachos, exactly half the onion rings and, in one harrowing case in Stevenage, exactly one and a half mozzarella sticks.",
+      "Campaigners are now demanding a legally recognised Big Half, under which the man is entitled to the fifth slice of any eight-slice pizza, plus first refusal on all leftover chips. They are also calling for the phrase “are you going to finish that?” to be reclassified from greed to a medical enquiry."
+    ],
+    "pull_quote": "I keep a multipack in the glovebox now, like a paramedic."
+  },
+  "female": {
+    "headline": "Full Price for a Fifth Less Dinner: Women Need 500 Fewer Calories a Day, and Have Been Bankrolling Craig's Chips Ever Since",
+    "standfirst": "The NHS says the average woman needs 2,000 calories a day to the average man's 2,500, yet every restaurant in Britain is charging her the full whack for a plate sized for a scaffolder.",
+    "body_paragraphs": [
+      "The figures are there in black and white on the NHS website: the average woman needs 2,000 calories a day, a full 500 fewer than the average man. So why, campaigners ask, is she being charged exactly the same £16.95 for a portion of fish and chips seemingly engineered for someone who has just carried a fridge up four flights of stairs?",
+      "“I ate the fish and a respectable amount of chips, and Craig was on the rest before I'd put my fork down,” said Nicola, 41, a dental receptionist from Stockport. “He calls it ‘not wasting food’. I call it a subscription I never signed up for.”",
+      "The logic is brutally simple. If the menu is one size and one price, but she needs a fifth less, then a fifth of everything she pays for is, in effect, a donation. And it rarely goes to waste: it travels across the table, one chip at a time, straight into the man who needed 500 extra calories and didn't fancy paying for them himself.",
+      "Women who try to order something smaller are offered the children's menu, a colouring sheet and a lolly, or a “light bites” section consisting of a single halloumi fry on a slate. Doggy bags, meanwhile, are routinely intercepted in the car park.",
+      "Campaigners are demanding a nationwide Two-Thousand Menu at four-fifths of the price, and a legally enforceable exclusion zone of 30 centimetres around every woman's plate. Craig has been asked for comment, but his mouth was full."
+    ],
+    "pull_quote": "He calls it not wasting food. I call it a subscription I never signed up for."
+  }
+}
