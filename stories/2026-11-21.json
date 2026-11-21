@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-21",
+  "stat_summary": "Around 35% of women are 'super-tasters', who are born with more taste buds and perceive tastes, especially bitterness, more intensely, compared with about 15% of men, according to research led by Professor Linda Bartoshuk at Yale University. Overall, roughly a quarter of people are non-tasters, half are average tasters and a quarter are super-tasters.",
+  "stat_source_title": "Tongue test identifies 'super-tasters', BBC News (2003), reporting Yale University research led by Professor Linda Bartoshuk",
+  "stat_source_url": "http://news.bbc.co.uk/2/hi/health/2880471.stm",
+  "male": {
+    "headline": "The Last Sprout Brigade: Only 15 Per Cent of Men Are Super-Tasters, and They've Been Finishing Everyone's Leftovers Ever Since",
+    "standfirst": "Science has finally explained why it is always him eating the burnt roastie, the 2019 chutney and your sprouts, and frankly he would like a medal.",
+    "image": "images/2026-11-21-male.jpg",
+    "image_caption": "Keith, 58, receives his fourth donated sprout of the afternoon.",
+    "body_paragraphs": [
+      "Research from Yale University has confirmed what every British dad hovering over the roasting tin already suspected: just 15 per cent of men are 'super-tasters', against around 35 per cent of women. Super-tasters experience flavours, especially bitter ones, far more intensely. Everybody else, it turns out, is simply getting on with it.",
+      "This means the average man is biologically built for the jobs nobody else will touch: the black-edged roast potato, the coffee from the office machine, the jar of chutney that has lived in the fridge door since a cousin's wedding. He is not a man with no taste. He is the household's entire food-waste strategy.",
+      "“Every Christmas there's a little procession of plates coming my way,” said Keith, 58, from Kettering. “Three sprouts from Mum, four from the kids, one parsnip with a bite out of it. I'm not a guest, I'm a bin with a paper hat on.”",
+      "Worse, his sturdy, low-drama tongue is routinely mocked. Partners say he 'would eat cardboard', and one man at a barbecue in Rugby was reportedly told he had 'the palate of a Labrador'. Nobody says that about the people who sent the risotto back.",
+      "Campaigners from Men Against Wasting Scraps (MAWS) are demanding that finishing the last sprout be formally recognised as a civic duty, with finishers entitled to first pick of the Quality Street and the good end of the sofa for the King's Speech.",
+      "Until then he will keep clearing the plates, one bitter mouthful at a time, while everyone else calls it greed."
+    ],
+    "pull_quote": "I'm not a guest, I'm a bin with a paper hat on."
+  },
+  "female": {
+    "headline": "Not Fussy, Just Fully Equipped: Women Are More Than Twice as Likely to Be Super-Tasters, and Nobody Believes Her About the Sprouts",
+    "standfirst": "For millions of British women Christmas dinner is less a festive treat than a bitter-flavoured ambush, yet she is still being called picky by a man who once ate a Scotch egg he found in the car.",
+    "image": "images/2026-11-21-female.jpg",
+    "image_caption": "Joanne, 41, confronts the sprout she was told to 'just try'.",
+    "body_paragraphs": [
+      "Around 35 per cent of women are 'super-tasters', according to Yale research, compared with just 15 per cent of men. Super-tasters are born with more taste buds and perceive tastes, bitterness above all, more intensely, which means that for a third of British women a Brussels sprout is not a vegetable. It is an incident.",
+      "“I said the coffee tasted like a burnt shed and he said I was being dramatic,” said Joanne, 41, from Stockport. “I'm not dramatic. I've got more equipment. He's running on factory settings.”",
+      "Yet the word 'fussy' continues to be hurled across dinner tables nationwide, usually by someone who cannot tell own-brand cola from the real thing and once described a £4 Merlot as 'grand'. A woman who sends back a stewed tea is not being difficult. She is reporting accurate data.",
+      "Campaigners are calling for a Sprout Exemption Certificate, entitling every super-taster to a sprout-free plate at Christmas without having to explain herself to an uncle, and for the phrase 'just try one' to be banned from all tables until the new year.",
+      "Until then she will smile politely, cut the sprout into eight pieces and hide them under the turkey, like generations of under-believed women before her."
+    ],
+    "pull_quote": "I'm not dramatic. I've got more equipment. He's running on factory settings."
+  }
+}
