@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-22",
+  "stat_summary": "Combining grip-strength measurements from almost 50,000 people across 12 British studies, researchers found men's peak median grip strength is 51kg, reached between ages 29 and 39, compared with 31kg for women, reached between ages 26 and 42. By age 80, 23% of men and 27% of women have weak grip.",
+  "stat_source_title": "Grip Strength across the Life Course: Normative Data from Twelve British Studies, Dodds et al., PLOS ONE (2014)",
+  "stat_source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113637",
+  "male": {
+    "headline": "Britain's Human Jar Key: Men Grip 20kg Harder, and Have Been Summoned to Every Pickled Onion Going",
+    "standfirst": "Scientists have measured the hands of nearly 50,000 Britons and confirmed that the nation's lids are being opened by one exhausted demographic, on call, unpaid, and usually mid-way through the football.",
+    "body_paragraphs": [
+      "A landmark study pooling twelve British research projects has found that the average man's grip peaks at 51kg, a full 20kg more than the average woman's 31kg. Experts say this explains a great deal, chiefly why the words \"can you just\" are so reliably followed by the sound of a jar being carried into the living room.",
+      "\"I have been called in from the garden, the bath and once from the loft to open a jar of piccalilli,\" said Steve, 52, from Kettering. \"Nobody asks how my day was. They just hold out the Dolmio and look at me like a vending machine.\"",
+      "Men's grip peaks between the ages of 29 and 39, meaning that for an entire decade the British male is, in effect, a piece of kitchen equipment. He is expected to loosen the ketchup, the paint tin, the childproof Calpol and the hot-water bottle that someone over-tightened in a fit of spite, all with a smile and without once mentioning that it was \"already loosened\".",
+      "Campaigners are demanding a national Jar Allowance, payable per lid, and an end to the practice of handing a man a jar that has been \"started\" by three other people and a tea towel. A petition calling for rubber grippers to be issued free on the NHS has passed 40 signatures.",
+      "Until then, Britain's silent lid brigade will keep answering the call, one stubborn Marmite at a time."
+    ],
+    "pull_quote": "They just hold out the Dolmio and look at me like a vending machine."
+  },
+  "female": {
+    "headline": "Sealed by a Man, for a Man: Women Grip 20kg Less, and the Pesto Has Been Taunting Them for Decades",
+    "standfirst": "New research proves Britain's jars are engineered for a 51kg hand, leaving millions of women stood alone at the worktop with a tea towel, a butter knife and a growing sense of injustice.",
+    "body_paragraphs": [
+      "Research drawing on nearly 50,000 Britons has found that women's grip strength peaks at 31kg, against 51kg for men. Campaigners say it is the clearest evidence yet that Britain's lids are being tightened in factories to a specification that only Steve can meet.",
+      "\"I have run a half-marathon, raised two children and assembled a wardrobe without the instructions,\" said Joanne, 49, from Kettering. \"And I have been defeated by a jar of artichoke hearts. I had to bang it on the step like a medieval peasant.\"",
+      "The insult does not end there. The same study shows women actually hold their peak for longer, from 26 to 42, against men's narrower window of 29 to 39. Yet despite sixteen years of reliable, consistent gripping, women are still forced to wait while a man who has just woken up from a nap is ceremonially handed the gherkins and treated like Hercules.",
+      "By 80, 27 per cent of women have weak grip, compared with 23 per cent of men, meaning the oppression of the vacuum-sealed lid only intensifies with age. Campaigners are demanding a legal maximum torque for all supermarket jars, a lid-opening hotline, and an official ban on the phrase \"I loosened it for you\".",
+      "Until then, the nation's women will carry on, armed with a spoon, hot water and the quiet knowledge that they did, in fact, loosen it first."
+    ],
+    "pull_quote": "I have been defeated by a jar of artichoke hearts."
+  }
+}
