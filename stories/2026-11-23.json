@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-23",
+  "stat_summary": "Among adults aged 20 to 69 in the United States, men are almost twice as likely as women to have hearing loss, according to the US National Institute on Deafness and Other Communication Disorders. The same figures show that about 18% of adults with five or more years of very loud noise at work have speech-frequency hearing loss in both ears, against 5.5% of those with no noisy job.",
+  "stat_source_title": "Quick Statistics About Hearing, Balance, & Dizziness, National Institute on Deafness and Other Communication Disorders (NIH), updated 2024",
+  "stat_source_url": "https://www.nidcd.nih.gov/health/statistics/quick-statistics-hearing",
+  "male": {
+    "headline": "He Wasn't Ignoring You: Men Are Almost Twice as Likely to Have Hearing Loss, and 'Selective Hearing' Is Officially a Slur",
+    "standfirst": "For decades Britain's husbands have been accused of tuning out on purpose. Now the science is in, and it turns out the poor sods genuinely didn't catch the bit about the bins.",
+    "body_paragraphs": [
+      "It is the accusation that has echoed round British kitchens since the invention of the kettle: “You never listen.” But new figures from the US National Institute on Deafness suggest that men may have been the victims of a vicious smear. Among adults aged 20 to 69, men are almost twice as likely as women to have hearing loss.",
+      "In other words, when he said “What bins?” he may have meant it. When he agreed to Sunday lunch at your mother's, he may have thought you said “Sunday, lunch, and then the darts”. He did not tune out. He was, in a very real sense, never tuned in.",
+      "“Thirty-one years on scaffolds next to a cement mixer, and I get called selective,” said Keith, 58, a retired scaffolder from Stoke-on-Trent. “I'm not selective. I'm broken. If I was selective I'd have picked hearing ‘Do you fancy a chippy?’ over ‘Your sister's coming for a week.’”",
+      "The figures back him up. About 18 per cent of adults with five or more years of very loud noise at work have speech-frequency hearing loss in both ears, against 5.5 per cent of those who spent their careers somewhere quiet, such as a library, or a meeting about wellbeing.",
+      "Campaigners from the newly formed Pardon? Alliance are demanding that the phrase “selective hearing” be reclassified as hate speech, and that every British household install a small flashing light that comes on when somebody wants the bins taken out. “Say it to my face,” said Keith. “No, closer. Bit louder. Lovely.”"
+    ],
+    "pull_quote": "I'm not selective. I'm broken."
+  },
+  "female": {
+    "headline": "Telly on 48 Again: Men Are Almost Twice as Likely to Have Hearing Loss, and She's Now Said 'The Bins' Four Times",
+    "standfirst": "As science confirms that men's ears are giving out at nearly twice the rate of women's, a forgotten army of wives is quietly losing its voice, its sanity and the remote.",
+    "body_paragraphs": [
+      "Every condition has its victims. And then it has the people sitting next to the victims, watching Pointless at the volume of a Saharan airstrip. New US figures show that among adults aged 20 to 69, men are almost twice as likely as women to have hearing loss, and nobody has spared a thought for the woman on the other half of the sofa.",
+      "If his ears are going, hers are working overtime. She hears the boiler making the new noise. She hears the dog being sick in the hall at 3am. She hears the next-door neighbours' entire divorce through a party wall. And she hears herself, for the fourth time that evening, say the word “bins”, now at a pitch normally reserved for summoning dogs.",
+      "“I've said everything in our marriage at least twice,” said Bev, 56, from Stoke-on-Trent. “I said ‘I do’ twice. The vicar had to step in. Last week I told Keith I loved him and he said ‘Lovely, two sugars.’”",
+      "Experts estimate that the average woman married to a hard-of-hearing man will spend a substantial portion of her life repeating herself, a figure this newspaper has not calculated but which feels like about nine years. The telly, meanwhile, is now so loud that the subtitles are also, somehow, too loud.",
+      "Campaigners are calling for a Repetition Allowance, paid weekly to any woman forced to say “I SAID” more than ten times a day, and for all televisions to be fitted with a second, smaller remote that only works from the kitchen. Until then, Bev and millions like her will carry on, louder, slower, and with mounting suspicion that some of it is still on purpose."
+    ],
+    "pull_quote": "I told Keith I loved him and he said 'Lovely, two sugars.'"
+  }
+}
