@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-24",
+  "stat_summary": "In a University of Utah study of 219 people published in The Lancet, women's hands averaged 87.2°F (about 30.7°C) against 90.0°F (about 32.2°C) for men – roughly 1.6°C (2.8°F) colder – even though women's average core temperature was slightly higher, at 97.8°F (36.6°C) against 97.4°F (36.3°C).",
+  "stat_source_title": "Kim H, Richardson C, Roberts J, Gren L, Lyon JL. 'Cold hands, warm heart', The Lancet, 1998",
+  "stat_source_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)78875-9/abstract",
+  "male": {
+    "headline": "Britain's Human Hot-Water Bottle: Men's Hands Run 1.6C Warmer, and Have Been Requisitioned Every Night Since October",
+    "standfirst": "Science has confirmed that men are the warm end of every British relationship, and the nation's blokes would like to know when they agreed to become a radiator.",
+    "body_paragraphs": [
+      "Researchers writing in The Lancet have confirmed what every British man has learned at 11.14pm with an icy palm pressed flat against his lower back: his hands are the warm ones. Men's hands average 90.0°F, around 1.6C toastier than women's, which experts say makes him not so much a partner as a piece of household heating equipment.",
+      "“She comes in from the bins, says ‘feel this’, and puts both hands up the back of my jumper like she's checking a lasagne,” said Mark, 42, from Doncaster. “I didn't sign anything. I just turned up warm.”",
+      "Worse still, the same study found men's core temperature actually runs slightly cooler than women's. In other words, the average bloke is giving away heat he hasn't got, leaking precious degrees through his fingertips every time someone says “give us your hands a minute” at a bus stop.",
+      "There is no Winter Fuel Payment for this. No boiler service. Not so much as a Twix. Campaigners from Hands Off My Kidneys are demanding a national Warm Hands Allowance, a legal 30-second warning before any cold-foot contact under the duvet, and for every new relationship to be issued with a starter pack of gloves.",
+      "Until then, Britain's unpaid central heating will keep quietly glowing, one stolen bit of body heat at a time."
+    ],
+    "pull_quote": "I didn't sign anything. I just turned up warm."
+  },
+  "female": {
+    "headline": "Not Dramatic, Just 1.6C Colder: Women's Hands Really Are Freezing, and He Still Wants His Hoodie Back",
+    "standfirst": "After decades of being told to ‘put a jumper on’, British women finally have peer-reviewed proof that their fingers are genuinely, measurably, scientifically cold.",
+    "body_paragraphs": [
+      "It is official: she is not making it up. A study in The Lancet found women's hands average just 87.2°F – around 1.6C colder than men's – meaning every “my hands are like ice” uttered in a British living room since records began was, in fact, accurate reporting.",
+      "“I'm not stealing his hoodie, I'm reclaiming my 1.6 degrees,” said Joanne, 39, from Carlisle, typing with her sleeves pulled over her knuckles. “He says I've had it since 2021. I say possession is nine-tenths of not getting chilblains.”",
+      "The cruellest twist is that women's core temperature actually runs slightly warmer than men's. Scientists note that the body protects the vital organs first, which means she is warm-hearted, cold-fingered and still being told she “can't possibly be cold, it's May”.",
+      "Campaigners are demanding gloves on prescription from the first of October, formal recognition of the sleeve-over-hand as a medical device, and an end to men holding a freshly made cup of tea by the handle while the person with the cold hands stands right there.",
+      "Until then, Britain's women will carry on as they always have: cupping the mug, wearing the hoodie, and being completely, scientifically right."
+    ],
+    "pull_quote": "I'm not stealing his hoodie, I'm reclaiming my 1.6 degrees."
+  }
+}
