@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-25",
+  "stat_summary": "In a study of BBC Internet Study data from 40 countries, published in Archives of Sexual Behavior in 2007, men scored significantly higher than women on a test of three-dimensional mental rotation in all 40 countries and all seven ethnic groups. Women scored significantly higher than men on a test of object location memory, remembering where things are, in all seven ethnic groups and 35 of the 40 countries.",
+  "stat_source_title": "Silverman, Choi & Peters, 'The hunter-gatherer theory of sex differences in spatial abilities: data from 40 countries', Archives of Sexual Behavior (2007)",
+  "stat_source_url": "https://pubmed.ncbi.nlm.nih.gov/17351740/",
+  "male": {
+    "headline": "Boot Camp: Men Out-Rotate Women in All 40 Countries Tested, and Have Been Packing the Car for Cornwall Ever Since",
+    "standfirst": "Science has confirmed that men are better at turning 3D objects round in their heads, which explains exactly why every British dad is out on the drive at 5am wrestling a travel cot into a Zafira.",
+    "image": "images/2026-11-25-male.jpg",
+    "image_caption": "Dean, 52, attempt nine, with the cool box still to go.",
+    "body_paragraphs": [
+      "It is official. In a study drawing on the BBC Internet Study across 40 countries, men beat women at three-dimensional mental rotation in every single one of them. Not most. All 40. And the British male has been quietly paying the price, one bank holiday weekend at a time.",
+      "Mental rotation is the ability to spin a shape round in your head and see where it fits. In laboratory terms, it is a test. In domestic terms, it is a summons to the driveway at dawn to fit a week in St Ives, two bodyboards, a travel cot and a parasol nobody has opened since 2017 into a car that was clearly designed for one handbag.",
+      "“I'm basically a human game of Tetris, and nobody even tells me my score,” said Dean, 52, from Kettering. “I had the suitcase, the cot and the duvet locked in like a jigsaw. Then she comes out with a cool box and says, ‘You'll find room.’ I will. That's the problem. I always find room.”",
+      "The burden does not end at the boot. The same gifted men are routinely called upon to get the sofa round the stairs, load the dishwasher ‘properly’, and stack the bins so the lid shuts. Experts confirm none of these tasks appear on any CV.",
+      "Campaigners are now demanding a statutory Boot Allowance of one fewer bag per holiday, and for the phrase “just pivot it” to be legally recognised as a skilled trade. Until then, Britain's unsung load-bearing geniuses will stand on the drive in the drizzle, rotating, rotating, rotating."
+    ],
+    "pull_quote": "I'm basically a human game of Tetris, and nobody even tells me my score."
+  },
+  "female": {
+    "headline": "Britain's Human Search Engine: Women Remember Where Things Are in 35 of 40 Countries, and Have Been Asked 'Where Are My Keys?' Every Day Since",
+    "standfirst": "A study across 40 countries has found women are better at remembering where objects are, which is science's polite way of saying she knows where the Sellotape is and you do not.",
+    "image": "images/2026-11-25-female.jpg",
+    "image_caption": "Bev, 49, has known where the keys were the entire time.",
+    "body_paragraphs": [
+      "Researchers analysing BBC Internet Study data from 40 countries have found that women score significantly higher than men on object location memory, the ability to remember where things are, in 35 of them. In Britain, this means one thing: she is now the national lost property office, unpaid and on call 24 hours a day.",
+      "Where is the passport? The Sellotape? The other glove? The good scissors, the remote, the charger that actually works? The answer is always the same. Ask your mum. Ask your wife. Ask the woman who has quietly memorised the position of every object in the house, including ones she has never personally touched.",
+      "“He'll stand in front of the fridge and shout ‘We've got no butter’ while looking directly at the butter,” said Bev, 49, from Stockport. “I'm not a wife any more. I'm a search bar with a cardigan.”",
+      "Insiders warn the system is close to collapse. The average household now funnels every ‘have you seen my…’ through a single woman, who must answer while also remembering birthdays, school non-uniform days and which drawer the spare bulbs went in after the kitchen was redone.",
+      "Campaigners are demanding a Find It Yourself Act, under which any adult must search at least two rooms, and lift at least one cushion, before asking. Until then, Britain's human search engine will keep delivering results, usually without looking up."
+    ],
+    "pull_quote": "I'm not a wife any more. I'm a search bar with a cardigan."
+  }
+}
