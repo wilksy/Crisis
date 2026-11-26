@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-26",
+  "stat_summary": "In a 2025 study of 2,197 people who wore audio recorders that sampled their everyday conversations, men spoke an average of 11,950 words a day and women 13,349. The estimated gender gap was small among adolescents (513 words) and 18 to 24-year-olds (841), largest among 25 to 64-year-olds (3,275 words a day), and reversed among over-65s, where men spoke an estimated 788 more words a day, although the researchers say only the 25 to 64 estimate is conclusive.",
+  "stat_source_title": "Mehl et al., 'Are women really (not) more talkative than men? A registered report of binary gender similarities/differences in daily word use', Journal of Personality and Social Psychology, 2025",
+  "stat_source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11825285/",
+  "male": {
+    "headline": "Forty Years on Hold: Men Are Out-Talked by 3,275 Words a Day Until 65, and Grandad Is Finally Cashing Them In",
+    "standfirst": "A major study of 2,197 people's everyday chatter reveals British men were never the strong, silent type – they have simply been waiting four decades to get a word in.",
+    "body_paragraphs": [
+      "For generations he has been branded the strong, silent type. Now science has exposed the truth: nobody ever gave him an opening. Researchers who fitted 2,197 people with discreet audio recorders found that between the ages of 25 and 64, women speak an estimated 3,275 more words a day than men – about 20 minutes of talking at a normal pace, or, in practice, the entire drive back from the in-laws'.",
+      "But then comes the twist. After 65, the gap flips, with men speaking an estimated 788 more words a day than women. The researchers stress that figure is uncertain, but campaigners say the direction of travel is obvious: men's words were never missing. They were merely deferred.",
+      "“I've got a story about a roundabout in Kidderminster I first tried to tell in 1987,” said Trevor, 68, from Redditch. “Got as far as ‘So there I was’ and someone asked where the Sellotape was. I finally finished it last Tuesday. Twenty-two minutes, no interruptions. Worth every second.”",
+      "Experts say the busy middle decades are a conversational desert for the British male, who is reduced to ‘yep’, ‘fair enough’ and a short, meaningful nod at the boiler engineer, while thousands of fully formed anecdotes pile up unspoken in the loft of his mind.",
+      "Campaigners from the Society for Men Who Were About to Say Something are demanding a statutory Right to Finish, a national Words Owed scheme allowing men to bank unspoken sentences and redeem them at retirement, and a mandatory four-second pause after every “Anyway…”.",
+      "Until then, Britain's quiet men will keep nodding along, quietly rehearsing the roundabout story for 2041."
+    ],
+    "pull_quote": "Got as far as ‘So there I was’ and someone asked where the Sellotape was."
+  },
+  "female": {
+    "headline": "Not Chatty, Just Running the House Out Loud: Women Say 3,275 More Words a Day in Their Busiest Years, and Most of Them Are 'Shoes'",
+    "standfirst": "Scientists who eavesdropped on 2,197 people have finally found the extra words women supposedly waste on gossip, and they turn out to be almost entirely about PE kits, dentist appointments and where the Calpol is.",
+    "body_paragraphs": [
+      "It is the nation's most cherished stereotype, and it has just been caught out. A study of 2,197 people wearing audio recorders found women do say more than men – but the gap is small among teenagers (513 words a day) and young adults (841), balloons to an estimated 3,275 words a day between the ages of 25 and 64, and then disappears after 65 altogether.",
+      "In other words, the extra talking turns up in precisely the decades spent raising children and running households – and even the researchers suggest women's bigger share of child rearing and family care could be behind it. Those aren't chats. That is verbal admin.",
+      "“People say I never stop talking,” said Joanne, 42, from Wakefield. “Yes, because at 8.14 every morning I'm saying ‘Shoes. Shoes. SHOES. Where are your shoes?’ That's four hundred words before I've had a Weetabix, and I haven't even started on the PE kit.”",
+      "At a normal speaking pace, the extra 3,275 words come to roughly 20 minutes a day – suspiciously close to the time it takes to locate one reading folder, two water bottles and a permission slip that was due yesterday.",
+      "Campaigners are demanding that household reminders be reclassified as unpaid broadcasting, a daily Word Allowance for mothers paid at BBC freelance rates, and a national amnesty on the phrase “you do go on”.",
+      "Joanne's husband was unavailable for comment, having popped out to look for his keys."
+    ],
+    "pull_quote": "That's four hundred words before I've had a Weetabix, and I haven't even started on the PE kit."
+  }
+}
