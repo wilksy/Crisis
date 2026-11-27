@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-27",
+  "stat_summary": "A 2020 meta-analysis of 200 studies covering 2,396,170 people found that 11.62% of men are left-handed, compared with 9.53% of women. The authors note that males are 23% more likely to be left-handed than females, a sex difference established in an earlier 2008 meta-analysis of 144 studies.",
+  "stat_source_title": "Papadatou-Pastou et al., 'Human handedness: A meta-analysis', Psychological Bulletin, 2020",
+  "stat_source_url": "https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/19889/Papadatou_Pastou_2020_Prevalence_of_left_handedness_PB_AAM.pdf",
+  "male": {
+    "headline": "Wrong-Handed by Design: Men Are 23 Per Cent More Likely to Be Left-Handed, and the Tin Opener Has Never Once Considered Them",
+    "standfirst": "A study of nearly 2.4 million people confirms that Britain's left-handed men are not clumsy – they have simply spent their entire lives operating equipment designed for somebody else.",
+    "body_paragraphs": [
+      "For decades he has been called butter-fingered, cack-handed and, on one occasion at a carvery in Shrewsbury, “a danger to the gravy”. Now science has cleared his name. A sweeping review of 200 studies covering 2,396,170 people has found that 11.62 per cent of men are left-handed, against 9.53 per cent of women – making men 23 per cent more likely to be lefties.",
+      "That means men are disproportionately trapped in a world built backwards: the scissors that fold the paper instead of cutting it, the ladle with its pouring lip on the wrong side, the spiral notebook whose coil sits exactly where his wrist needs to be, and the card machine at Greggs, which faces the other way out of spite.",
+      "“I've been wrapping presents backwards since 1983,” said Neil, 51, a heating engineer from Telford. “The scissors chew the paper, the Sellotape end sticks to my cuff, the roll goes under the sofa, and someone always says ‘give it here’. Give it here! I'm fifty-one! It's not clumsiness. It's a design flaw with a man attached.”",
+      "The gap of just over two percentage points may sound modest, but campaigners point out it amounts to around 21 extra left-handed men in every thousand – enough for four full five-a-side teams, every one of them holding the tin opener upside down and being told to stop making a fuss.",
+      "The newly formed Campaign for Real Scissors is demanding a statutory left-handed pair in every British kitchen drawer, reversible ladles by law, and the immediate retirement of the phrase “give it here”. Until then, the nation's silent southpaws will carry on, smudging every birthday card they write from left to right."
+    ],
+    "pull_quote": "It's not clumsiness. It's a design flaw with a man attached."
+  },
+  "female": {
+    "headline": "Elbowed Through Christmas: Men Are 23 Per Cent More Likely to Be Left-Handed, and She's Sat Next to Uncle Barry Again",
+    "standfirst": "The biggest handedness study ever carried out has finally identified the source of the nation's festive elbow injuries – and he is sitting on her right, reaching for the sprouts.",
+    "body_paragraphs": [
+      "Every December, a quiet war breaks out over the nation's dining tables, and science has now named the aggressor. A review of 200 studies covering nearly 2.4 million people found that 11.62 per cent of men are left-handed, compared with 9.53 per cent of women. Women are the more reliably right-handed sex, and the surplus lefties are, by definition, all blokes.",
+      "The physics is brutal. Seat a right-hander with a left-hander on her right and their elbows meet in the middle, usually directly above the bread sauce. It happens at every pull of a cracker, every reach for the pigs in blankets and, most painfully, every attempt to carve while Barry is already “just getting in there with a fork”.",
+      "“I've done the seating plan for fourteen years and it is harder than the turkey,” said Sharon, 46, from Basingstoke. “Barry has to go on one end. His son has to go on the other end. And now Kayleigh's new boyfriend turns out to be left-handed as well. I've got three left-handed men and a table with two ends.”",
+      "Nor does it stop at the table. It is overwhelmingly the right-handed majority who are expected to make the adjustments: laying his fork on the other side, turning his mug handle round, and buying the special scissors he then loses by Boxing Day. Researchers stress the sex difference is only about two percentage points, which Sharon notes is precisely enough to ruin a table for twelve.",
+      "Campaigners are demanding that end seats be legally reserved for left-handed men, that round tables be made available on prescription, and that any man who reveals himself as a lefty after the place cards have been printed be put on washing-up duty until Twelfth Night."
+    ],
+    "pull_quote": "I've got three left-handed men and a table with two ends."
+  }
+}
