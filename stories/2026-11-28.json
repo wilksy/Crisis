@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-28",
+  "stat_summary": "In a survey of 20,029 passengers on 114 voyages by ferry, hovercraft and jetfoil, 7% were sick at some point during the journey, and both vomiting and feeling ill were more common among women than men. A 2006 review of motion-sickness research puts the female-to-male risk ratio for vomiting at sea at about 5 to 3, and says the gap is not explained by men simply being more used to rough motion.",
+  "stat_source_title": "Golding, 'Motion sickness susceptibility', Autonomic Neuroscience (2006), citing Lawther and Griffin's 1988 survey of 20,029 sea passengers",
+  "stat_source_url": "https://faculty.nps.edu/asadagic/HFgroup/Resources/Golding2006-Susceptibility.pdf",
+  "male": {
+    "headline": "Last Man Standing: Women Are Sick at Sea Five Times for Every Three Men, and He's Been Holding Everyone's Cagoule Since Dover",
+    "standfirst": "Science has confirmed that men are less likely to be seasick, which is why every one of them has spent the crossing on deck as an unpaid porter, coat rack and sick-bag dispenser.",
+    "image": "images/2026-11-28-male.jpg",
+    "image_caption": "Darren, 52, mid-Channel, carrying the family.",
+    "body_paragraphs": [
+      "Researchers who quizzed more than 20,000 ferry passengers have uncovered a scandal hiding in plain sight on Britain's car decks: for every three men who are sick at sea, roughly five women are. Experts say the gap is real biology, not bravado. Nobody has yet asked what happens to the men left standing.",
+      "What happens is that they become the boat. With the rest of the family flat out in the lounge, the steadier-stomached male is promoted, without interview, to luggage handler, snack courier, child minder and holder of the hair, all while the Channel tries to tip him over the railings.",
+      "“I got on at Dover for a full English and a look at the cliffs,” said Darren, 52, from Maidstone. “By Calais I was holding three cagoules, a family-size Toblerone, a nine-year-old and a paper bag I hadn't been told the contents of. Nobody asked how I was. I was fine, as it happens. That's not the point.”",
+      "Critics say men should be grateful for their iron stomachs. Darren points out that the reward for not being sick is being sent back down to Deck 3 for the travel sweets, twice, because they were the wrong travel sweets.",
+      "Campaigners from Men Overboard are demanding a Last Man Standing lounge on every cross-Channel sailing, with a chair, a radiator and a sign reading “Not On Duty”, and a commemorative pin for any husband who completes a Force 6 crossing without once being thanked."
+    ],
+    "pull_quote": "I was holding three cagoules, a family-size Toblerone, a nine-year-old and a paper bag I hadn't been told the contents of."
+  },
+  "female": {
+    "headline": "Not Dramatic, Just Five-to-Three: Women Really Are Sicker at Sea, and She's Been Told to 'Look at the Horizon' Since 1987",
+    "standfirst": "Scientists have confirmed that women's seasickness is real, measurable and not in their heads, a finding that arrives roughly four decades and several hundred ginger biscuits too late.",
+    "image": "images/2026-11-28-female.jpg",
+    "image_caption": "Sharon, 49, looking at the horizon. The horizon is not cooperating.",
+    "body_paragraphs": [
+      "For years, Britain's women have been told their seasickness is “mostly in the mind”. Now a review of the evidence has delivered the verdict: women are sick at sea about five times for every three men, and it cannot be explained away by men simply being more used to rough water. It is, in the clinical sense, the boat.",
+      "Researchers say the difference shows up as actual vomiting, not just complaining, which rules out the long-standing theory, popular among husbands, that she is “making a thing of it”.",
+      "“I have looked at the horizon on every ferry since 1987,” said Sharon, 49, from Basingstoke, from a lounge table on the Isle of Wight crossing. “The horizon is going up and down. That's the problem. Meanwhile he's out on deck going ‘lovely bit of sea air’ like a man in a Werther's advert.”",
+      "Sharon has tried wristbands, ginger biscuits, sitting in the middle, sitting at the back, not reading, not thinking, and on one occasion standing very still in the gift shop. All of it, she says, was recommended by people who were not being sick.",
+      "Campaigners are demanding a legal ban on the phrases “just look at the horizon” and “it's all in your head” on any vessel in UK waters, plus a permanent front-seat entitlement in every car, coach and minibus, starting with the drive to the port."
+    ],
+    "pull_quote": "I have looked at the horizon on every ferry since 1987. The horizon is going up and down. That's the problem."
+  }
+}
